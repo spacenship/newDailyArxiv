@@ -1,44 +1,44 @@
 ---
-title: Latest 15 Papers - February 05, 2025
+title: Latest 15 Papers - March 27, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v1)** | 2025-02-04 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, the first version</p></details> |
-| **[Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](http://arxiv.org/abs/2409.12961v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[Beyond Token Compression: A Training-Free Reduction Framework for Efficient Visual Processing in MLLMs](http://arxiv.org/abs/2501.19036v1)** | 2025-01-31 |  |
-| **[InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling](http://arxiv.org/abs/2501.12386v2)** | 2025-01-22 | technical report |
-| **[Beyond Specialization: Assessing the Capabilities of MLLMs in Age and Gender Estimation](http://arxiv.org/abs/2403.02302v4)** | 2025-01-21 |  |
-| **[Redundancy Principles for MLLMs Benchmarks](http://arxiv.org/abs/2501.13953v1)** | 2025-01-20 |  |
-| **[Visual RAG: Expanding MLLM visual knowledge without fine-tuning](http://arxiv.org/abs/2501.10834v1)** | 2025-01-18 |  |
-| **[Omni-Emotion: Extending Video MLLM with Detailed Face and Audio Modeling for Multimodal Emotion Analysis](http://arxiv.org/abs/2501.09502v1)** | 2025-01-16 |  |
-| **[Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration](http://arxiv.org/abs/2501.05179v2)** | 2025-01-15 | <details><summary>Our c...</summary><p>Our code is released at \url{https://github.com/xuyang-liu16/GlobalCom2}</p></details> |
-| **[An empirical study of LLaMA3 quantization: from LLMs to MLLMs](http://arxiv.org/abs/2404.14047v3)** | 2025-01-13 |  |
-| **[Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs](http://arxiv.org/abs/2501.06430v1)** | 2025-01-11 |  |
-| **[PEACE: Empowering Geologic Map Holistic Understanding with MLLMs](http://arxiv.org/abs/2501.06184v1)** | 2025-01-10 |  |
-| **[Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs](http://arxiv.org/abs/2501.01042v2)** | 2025-01-10 |  |
-| **[Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark](http://arxiv.org/abs/2501.05444v1)** | 2025-01-09 |  |
-| **[Benchmarking Large and Small MLLMs](http://arxiv.org/abs/2501.04150v1)** | 2025-01-04 |  |
+| **[Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](http://arxiv.org/abs/2503.20309v1)** | 2025-03-26 | Technical report |
+| **[TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation](http://arxiv.org/abs/2411.16425v2)** | 2025-03-26 | 10 pages |
+| **[LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](http://arxiv.org/abs/2503.19990v1)** | 2025-03-25 | 12 pages, 7 figures |
+| **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v2)** | 2025-03-24 |  |
+| **[HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](http://arxiv.org/abs/2309.05186v2)** | 2025-03-24 | Accepted by IJCV |
+| **[Judge Anything: MLLM as a Judge Across Any Modality](http://arxiv.org/abs/2503.17489v1)** | 2025-03-21 |  |
+| **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v2)** | 2025-03-21 |  |
+| **[Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs](http://arxiv.org/abs/2503.12303v4)** | 2025-03-21 | <details><summary>38 pa...</summary><p>38 pages. Preprint, work in progress</p></details> |
+| **[Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](http://arxiv.org/abs/2503.14478v2)** | 2025-03-19 | <details><summary>Evalu...</summary><p>Evaluation Code and dataset see https://github.com/open-compass/Creation-MMBench</p></details> |
+| **[MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems](http://arxiv.org/abs/2503.16549v1)** | 2025-03-19 | <details><summary>https...</summary><p>https://github.com/MathFlow-zju/MathFlow</p></details> |
+| **[LLaVA-UHD v2: an MLLM Integrating High-Resolution Semantic Pyramid via Hierarchical Window Transformer](http://arxiv.org/abs/2412.13871v2)** | 2025-03-19 |  |
+| **[Unveiling the Ignorance of MLLMs: Seeing Clearly, Answering Incorrectly](http://arxiv.org/abs/2406.10638v3)** | 2025-03-19 |  |
+| **[Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations](http://arxiv.org/abs/2503.14895v1)** | 2025-03-19 |  |
+| **[MP-GUI: Modality Perception with MLLMs for GUI Understanding](http://arxiv.org/abs/2503.14021v1)** | 2025-03-18 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
+| **[Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](http://arxiv.org/abs/2503.13947v1)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](http://arxiv.org/abs/2312.14457v6)** | 2025-02-04 | Accepted by ECCV2024 |
-| **[VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](http://arxiv.org/abs/2502.02175v1)** | 2025-02-04 |  |
-| **[GRAPE: Generalizing Robot Policy via Preference Alignment](http://arxiv.org/abs/2411.19309v2)** | 2025-02-04 | <details><summary>Websi...</summary><p>Website: https://grape-vla.github.io/</p></details> |
-| **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v2)** | 2025-02-03 |  |
-| **[Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](http://arxiv.org/abs/2502.01071v1)** | 2025-02-03 |  |
-| **[HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](http://arxiv.org/abs/2410.05273v3)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to CORL 2024</p></details> |
-| **[UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](http://arxiv.org/abs/2501.18867v2)** | 2025-02-03 |  |
-| **[LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](http://arxiv.org/abs/2406.20095v3)** | 2025-01-30 | ICLR 2025 |
-| **[Improving Vision-Language-Action Model with Online Reinforcement Learning](http://arxiv.org/abs/2501.16664v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
-| **[GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation](http://arxiv.org/abs/2501.09783v1)** | 2025-01-16 | 32 pages, 13 figures |
-| **[FAST: Efficient Action Tokenization for Vision-Language-Action Models](http://arxiv.org/abs/2501.09747v1)** | 2025-01-16 | <details><summary>Websi...</summary><p>Website: https://www.pi.website/research/fast</p></details> |
-| **[Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding](http://arxiv.org/abs/2501.04693v3)** | 2025-01-14 |  |
-| **[Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing](http://arxiv.org/abs/2501.06919v1)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted to IEEE/ACM HRI 2025</p></details> |
-| **[UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation](http://arxiv.org/abs/2501.05014v1)** | 2025-01-09 | HRI 2025 |
-| **[OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](http://arxiv.org/abs/2501.03841v1)** | 2025-01-07 |  |
+| **[OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](http://arxiv.org/abs/2503.03734v3)** | 2025-03-26 |  |
+| **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v1)** | 2025-03-26 |  |
+| **[Gemini Robotics: Bringing AI into the Physical World](http://arxiv.org/abs/2503.20020v1)** | 2025-03-25 |  |
+| **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2503.19757v1)** | 2025-03-25 | <details><summary>Prepr...</summary><p>Preprint; https://robodita.github.io;</p></details> |
+| **[DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data](http://arxiv.org/abs/2503.19516v1)** | 2025-03-25 |  |
+| **[RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World](http://arxiv.org/abs/2412.00171v3)** | 2025-03-25 | 17 pages, 16 figures |
+| **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v3)** | 2025-03-24 | Submitted to IROS |
+| **[Diffusion Transformer Policy](http://arxiv.org/abs/2410.15959v6)** | 2025-03-23 | <details><summary>prepr...</summary><p>preprint; New Project Page: https://robodita.github.io; revert unsuitable replacement</p></details> |
+| **[A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](http://arxiv.org/abs/2405.17418v2)** | 2025-03-19 |  |
+| **[GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](http://arxiv.org/abs/2503.14734v1)** | 2025-03-18 | <details><summary>Autho...</summary><p>Authors are listed alphabetically. Project leads are Linxi "Jim" Fan and Yuke Zhu</p></details> |
+| **[MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation](http://arxiv.org/abs/2503.13446v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://gary3410.github.io/momanipVLA/</p></details> |
+| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
+| **[ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis](http://arxiv.org/abs/2503.14526v1)** | 2025-03-15 | <details><summary>Websi...</summary><p>Website: https://yuffish.github.io/rebot/</p></details> |
+| **[ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](http://arxiv.org/abs/2409.15250v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at ICRA-2025, Atlanta</p></details> |
+| **[CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games](http://arxiv.org/abs/2503.09527v1)** | 2025-03-12 |  |
 
