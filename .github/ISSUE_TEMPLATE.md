@@ -23,24 +23,24 @@ labels: documentation
 | **[Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2605.04128v1)** | 2026-05-05 |  |
 | **[AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI](https://arxiv.org/abs/2503.10070v2)** | 2026-05-05 | <details><summary>The f...</summary><p>The first two authors contributed equally. Website: https://aha-robot.github.io</p></details> |
 
-## robot
+## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Robot Coordination in V2X Environments](https://arxiv.org/abs/2605.06662v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted for publication at the IEEE Intelligent Transportation Systems Conference (ITSC), 2026</p></details> |
-| **[OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation](https://arxiv.org/abs/2605.06481v1)** | 2026-05-07 |  |
-| **[GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments](https://arxiv.org/abs/2605.06478v1)** | 2026-05-07 | For DARS 2026 |
-| **[SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation](https://arxiv.org/abs/2603.26240v2)** | 2026-05-07 | 8 pages, 9 figures |
-| **[Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](https://arxiv.org/abs/2605.06388v1)** | 2026-05-07 | 9 pages |
-| **[Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311v1)** | 2026-05-07 |  |
-| **[LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](https://arxiv.org/abs/2604.28192v3)** | 2026-05-07 |  |
-| **[MARVL: Multi-Stage Guidance for Robotic Manipulation via Vision-Language Models](https://arxiv.org/abs/2602.15872v3)** | 2026-05-07 |  |
-| **[Information Filtering via Variational Regularization for Robot Manipulation](https://arxiv.org/abs/2601.21926v3)** | 2026-05-07 |  |
-| **[DexSynRefine: Synthesizing and Refining Human-Object Interaction Motion for Physically Feasible Dexterous Robot Actions](https://arxiv.org/abs/2605.05925v1)** | 2026-05-07 | <details><summary>Proje...</summary><p>Project page: https://dexsynrefine.github.io/</p></details> |
-| **[Cycle-resolved Cephalopod-Inspired Pulsed-Jet Robot With High-Volume Expulsion and Drag-Reduced Gliding](https://arxiv.org/abs/2605.05875v1)** | 2026-05-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[A Comparative Study of INDI and NDI with Nonlinear Disturbance Observer for Aerial Robotics](https://arxiv.org/abs/2605.05825v1)** | 2026-05-07 |  |
-| **[Resource-Constrained Robotic Planning in the face of Mixed Uncertainty](https://arxiv.org/abs/2605.05797v1)** | 2026-05-07 |  |
-| **[A Position Statement on Endovascular Models and Effectiveness Metrics for Mechanical Thrombectomy Navigation, on behalf of the Stakeholder Taskforce for AI-assisted Robotic Thrombectomy (START)](https://arxiv.org/abs/2603.28129v2)** | 2026-05-06 | <details><summary>Publi...</summary><p>Published in Journal of the American Heart Association</p></details> |
-| **[Creative Robot Tool Use by Counterfactual Reasoning](https://arxiv.org/abs/2605.05411v1)** | 2026-05-06 | Under review |
+| **[MedHorizon: Towards Long-context Medical Video Understanding in the Wild](https://arxiv.org/abs/2605.06537v1)** | 2026-05-07 |  |
+| **[sFRC for assessing hallucinations in medical image restoration](https://arxiv.org/abs/2603.04673v2)** | 2026-05-07 | <details><summary>16 pa...</summary><p>16 pages; 14 figures; 1 Supplemental document. TechRxiv Preprints, 2025</p></details> |
+| **[MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs](https://arxiv.org/abs/2512.20822v2)** | 2026-05-07 |  |
+| **[On the notion of missingness for path attribution explainability methods in medical settings: Guiding the selection of medically meaningful baselines](https://arxiv.org/abs/2508.14482v3)** | 2026-05-07 |  |
+| **[Bridging visual saliency and large language models for explainable deep learning in medical imaging](https://arxiv.org/abs/2605.06197v1)** | 2026-05-07 |  |
+| **[Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06160v1)** | 2026-05-07 | <details><summary>Submi...</summary><p>Submitted to a journal</p></details> |
+| **[Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://arxiv.org/abs/2602.18473v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026 (Oral). arXiv admin note: text overlap with arXiv:2405.19363 by other authors</p></details> |
+| **[MTL-MAD: Multi-Task Learners are Effective Medical Anomaly Detectors](https://arxiv.org/abs/2605.05891v1)** | 2026-05-07 |  |
+| **[Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes](https://arxiv.org/abs/2605.05859v1)** | 2026-05-07 |  |
+| **[Quantifying Hallucinations in Language Language Models on Medical Textbooks](https://arxiv.org/abs/2603.09986v2)** | 2026-05-07 | 8 pages, 4 figures |
+| **[CXR-ContraBench: Benchmarking Negated-Option Attraction in Medical VLMs](https://arxiv.org/abs/2605.05810v1)** | 2026-05-07 |  |
+| **[Decodable but Not Corrected by Fixed Residual-Stream Linear Steering: Evidence from Medical LLM Failure Regimes](https://arxiv.org/abs/2605.05715v1)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages (14 main + 8 appendix), 5 figures, 7 tables. Under review</p></details> |
+| **[MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention](https://arxiv.org/abs/2604.19675v2)** | 2026-05-06 |  |
+| **[Seeing What Shouldn't Be There: Counterfactual GANs for Medical Image Attribution](https://arxiv.org/abs/2605.05283v1)** | 2026-05-06 |  |
+| **[DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation](https://arxiv.org/abs/2601.19690v2)** | 2026-05-06 | 5 pages, 1 figures |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
@@ -60,23 +60,4 @@ labels: documentation
 | **[4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding](https://arxiv.org/abs/2605.05997v1)** | 2026-05-07 | 21 pages, 16 figures |
 | **[Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180v2)** | 2026-05-07 |  |
 | **[Plug-and-play Class-aware Knowledge Injection for Prompt Learning with Visual-Language Model](https://arxiv.org/abs/2605.05910v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by International Journal of Computer Vision</p></details> |
-
-## world model
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](https://arxiv.org/abs/2605.06388v1)** | 2026-05-07 | 9 pages |
-| **[Earth-o1: A Grid-free Observation-native Atmospheric World Model](https://arxiv.org/abs/2605.06337v1)** | 2026-05-07 |  |
-| **[MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334v1)** | 2026-05-07 |  |
-| **[Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement](https://arxiv.org/abs/2605.06298v1)** | 2026-05-07 | <details><summary>35 pa...</summary><p>35 pages, 30 figures, 8 tables</p></details> |
-| **[LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](https://arxiv.org/abs/2604.28192v3)** | 2026-05-07 |  |
-| **[EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields](https://arxiv.org/abs/2605.06192v1)** | 2026-05-07 | <details><summary>Prepr...</summary><p>Preprint. 22 pages, 10 figures</p></details> |
-| **[Causal Reinforcement Learning for Complex Card Games: A Magic The Gathering Benchmark](https://arxiv.org/abs/2605.06066v1)** | 2026-05-07 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 9 tables, 1 algorithm</p></details> |
-| **[Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising](https://arxiv.org/abs/2604.26694v2)** | 2026-05-07 | <details><summary>Proje...</summary><p>Project website: https://sharinka0715.github.io/X-WAM/</p></details> |
-| **[HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](https://arxiv.org/abs/2605.05951v1)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Code: https://github.com/HaoyunT/HaM_World</p></details> |
-| **[LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)](https://arxiv.org/abs/2605.05187v1)** | 2026-05-06 |  |
-| **[Executable World Models for ARC-AGI-3 in the Era of Coding Agents](https://arxiv.org/abs/2605.05138v1)** | 2026-05-06 | <details><summary>8 pag...</summary><p>8 pages. Submitted to AGI-26</p></details> |
-| **[Shadow-Loom: Causal Reasoning over Graphical World Models of Narratives](https://arxiv.org/abs/2605.02475v2)** | 2026-05-06 | <details><summary>7 pag...</summary><p>7 pages, 28 pages total</p></details> |
-| **[Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior](https://arxiv.org/abs/2605.05115v1)** | 2026-05-06 |  |
-| **[Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout](https://arxiv.org/abs/2605.05092v1)** | 2026-05-06 |  |
-| **[The Predictive-Causal Gap: An Impossibility Theorem and Large-Scale Neural Evidence](https://arxiv.org/abs/2605.05029v1)** | 2026-05-06 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables. Supplemental Material included (Sections S1-S10)</p></details> |
 

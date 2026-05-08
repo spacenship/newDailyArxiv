@@ -41,8 +41,6 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zhiling Chen
-        email: 625676308@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
