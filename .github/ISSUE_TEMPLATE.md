@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,12 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation](https://arxiv.org/abs/2605.23568v1)** | 2026-05-22 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 6 tables</p></details> |
+| **[Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving](https://arxiv.org/abs/2605.23163v1)** | 2026-05-22 |  |
+| **[$π_0$-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control](https://arxiv.org/abs/2605.23128v1)** | 2026-05-22 | <details><summary>Prepr...</summary><p>Preprint. 5 pages, 3 figures</p></details> |
 | **[GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page: https://gwxuan.github.io/GesVLA/</p></details> |
 | **[From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](https://arxiv.org/abs/2605.22671v1)** | 2026-05-21 |  |
+| **[Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.22896v1)** | 2026-05-21 | Total 15 pages |
 | **[Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts](https://arxiv.org/abs/2605.22446v1)** | 2026-05-21 |  |
 | **[How can reasoning capability empower the AI copilot robot in endoscopic surgery](https://arxiv.org/abs/2605.22322v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by npj digital medicine</p></details> |
 | **[Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
@@ -18,14 +22,11 @@ labels: documentation
 | **[CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.21854v1)** | 2026-05-21 | <details><summary>Works...</summary><p>Workshop draft, 14 pages, 4 figures. Code, ckpts, data: https://github.com/lz-googlefycy/vla-lab</p></details> |
 | **[Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs](https://arxiv.org/abs/2605.21446v1)** | 2026-05-20 |  |
 | **[PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction](https://arxiv.org/abs/2605.21414v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to RSS 2026; project webpage: https://cshizhe.github.io/projects/pointact.html</p></details> |
-| **[DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions](https://arxiv.org/abs/2605.21273v2)** | 2026-05-21 | <details><summary>We wi...</summary><p>We withdraw this submission because the current version contains a mismatch between the paper title, conceptual framing, and the intended contribution of the work. To avoid potential misunderstanding by readers, the authors have decided to withdraw this version and substantially revise the title, organization, and presentation before any future submission</p></details> |
-| **[VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models](https://arxiv.org/abs/2605.20774v1)** | 2026-05-20 |  |
-| **[GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation](https://arxiv.org/abs/2605.20752v1)** | 2026-05-20 | 18 pages, 9 figures |
-| **[Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation](https://arxiv.org/abs/2605.19986v1)** | 2026-05-19 | <details><summary>Proje...</summary><p>Project page: https://metafine.github.io/</p></details> |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DDX-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs](https://arxiv.org/abs/2605.23629v1)** | 2026-05-22 | 41 pages |
 | **[Case-Aware Medical Image Classification with Multimodal Knowledge Graphs and Reliability-Guided Refinement](https://arxiv.org/abs/2605.22547v1)** | 2026-05-21 |  |
 | **[JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](https://arxiv.org/abs/2605.22080v1)** | 2026-05-21 |  |
 | **[Entropy-Guided Self-Supervised Learning for Medical Image Classification](https://arxiv.org/abs/2605.21970v1)** | 2026-05-21 |  |
@@ -40,24 +41,23 @@ labels: documentation
 | **[Neuron Incidence Redistribution for Fairness in Medical Image Classification](https://arxiv.org/abs/2605.19393v1)** | 2026-05-19 | 4 Pages, 1 Figure |
 | **[Worst-Group Equalized Odds Regularization for Multi-Attribute Fair Medical Image Classification](https://arxiv.org/abs/2605.19214v1)** | 2026-05-19 | 11 Pages, 2 Figures |
 | **[Quantized Machine Learning Models for Medical Imaging in Low-Resource Healthcare Settings](https://arxiv.org/abs/2605.19207v1)** | 2026-05-19 |  |
-| **[Reducing Waiting Time for Medical Tourists Through Hybrid Agent-Based and Discrete-Event Simulation: A Hospital Case Study](https://arxiv.org/abs/2605.19139v1)** | 2026-05-18 | <details><summary>41 Pa...</summary><p>41 Pages including appedix</p></details> |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
-| **[Conceptualizing Embeddings: Sparse Disentanglement for Vision-Language Models](https://arxiv.org/abs/2605.22679v1)** | 2026-05-21 |  |
-| **[GeoWeaver: Grounding Visual Tokens with Geometric Evidence before Scene Reasoning](https://arxiv.org/abs/2605.22558v1)** | 2026-05-21 |  |
-| **[Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](https://arxiv.org/abs/2605.22484v1)** | 2026-05-21 |  |
-| **[Towards Clinically Interpretable Ophthalmic VQA via Spatially-Grounded Lesion Evidence](https://arxiv.org/abs/2605.22414v1)** | 2026-05-21 |  |
-| **[Exposing Vulnerabilities in Visible-Infrared VLMs: A Unified Geometric Adversarial Framework with Cross-Task Transferability](https://arxiv.org/abs/2605.22273v1)** | 2026-05-21 |  |
-| **[Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability](https://arxiv.org/abs/2605.22168v1)** | 2026-05-21 |  |
-| **[JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](https://arxiv.org/abs/2605.22080v1)** | 2026-05-21 |  |
-| **[COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition](https://arxiv.org/abs/2605.22068v1)** | 2026-05-21 |  |
-| **[PointLLM-R: Enhancing 3D Point Cloud Reasoning via Chain-of-Thought](https://arxiv.org/abs/2605.22013v1)** | 2026-05-21 |  |
-| **[Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](https://arxiv.org/abs/2605.21980v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Visual-Advantage On-Policy Distillation for Vision-Language Models](https://arxiv.org/abs/2605.21924v1)** | 2026-05-21 |  |
-| **[SDGBiasBench: Benchmarking and Mitigating Vision--Language Models' Biases in Sustainable Development Goals](https://arxiv.org/abs/2605.21919v1)** | 2026-05-21 |  |
-| **[MAVEN: A Multi-stage Agentic Annotation Pipeline for Video Reasoning Tasks](https://arxiv.org/abs/2605.21917v1)** | 2026-05-21 | CVPR 2026 Workshop |
-| **[Thermo-VL: Extending Vision-Language Models to Thermal Infrared Perception](https://arxiv.org/abs/2605.21882v1)** | 2026-05-21 | 18 pages, 11 figures |
+| **[SPACENUM: Revisiting Spatial Numerical Understanding in VLMs](https://arxiv.org/abs/2605.23898v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project page: https://sterzhang.github.io/SpaceNum-Home</p></details> |
+| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
+| **[Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion](https://arxiv.org/abs/2605.23847v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted for presentation at ICRA2026</p></details> |
+| **[Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models](https://arxiv.org/abs/2605.23797v1)** | 2026-05-22 | KDD 2026 |
+| **[PhotoFlow: Agentic 3D Virtual Photography Missions](https://arxiv.org/abs/2605.23771v1)** | 2026-05-22 |  |
+| **[B-GRTO: Bootstrapped Group Relative Tool Optimization for Referring Segmentation](https://arxiv.org/abs/2605.23500v1)** | 2026-05-22 |  |
+| **[Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation](https://arxiv.org/abs/2605.23477v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
+| **[CHASD: Language Increment-Calibrated Contrastive Decoding against Hallucination in LVLMs](https://arxiv.org/abs/2605.23344v1)** | 2026-05-22 |  |
+| **[General Hazard Detection](https://arxiv.org/abs/2605.23304v1)** | 2026-05-22 | <details><summary>20 pa...</summary><p>20 pages, 7 figures and 4 tables</p></details> |
+| **[EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](https://arxiv.org/abs/2605.23271v1)** | 2026-05-22 |  |
+| **[ChainFlow-VLA: Causal Flow Planning with Vision-Language Models](https://arxiv.org/abs/2605.23270v1)** | 2026-05-22 |  |
+| **[CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels](https://arxiv.org/abs/2605.23254v1)** | 2026-05-22 | poster in ICML 2026 |
+| **[CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering](https://arxiv.org/abs/2605.23216v1)** | 2026-05-22 | CVPR 2026 |
+| **[DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving](https://arxiv.org/abs/2605.23176v1)** | 2026-05-22 |  |
+| **[Autonomous Frontier-Based Exploration with VLM Guidance](https://arxiv.org/abs/2605.23165v1)** | 2026-05-22 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, CVPR 2026: 2nd Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
 
