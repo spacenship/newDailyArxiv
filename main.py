@@ -23,7 +23,7 @@ with open("README.md", "r") as f:
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
-keywords = ["Vision Language Action", "Medical", "Vision Language Model"] # TODO add more keywords
+keywords = ["Medical", "Drug", "Protein", "Vision Language Model", "Vision Language Action"] # TODO add more keywords
 
 max_result = 50 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
