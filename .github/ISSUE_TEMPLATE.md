@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](https://arxiv.org/abs/2606.24433v1)** | 2026-06-23 | 25 pages, 9 figures |
+| **[MMed-Bench-IR: A Heterogeneous Benchmark for Multilingual Medical Information Retrieval](https://arxiv.org/abs/2606.24200v1)** | 2026-06-23 | <details><summary>Under...</summary><p>Under review. 15 pages, 3 figures</p></details> |
 | **[CADRE: Stable, Parameter Efficient Adaptation of Medical Vision Language Models with Bounded Forgetting and Prior Drift](https://arxiv.org/abs/2606.23487v1)** | 2026-06-22 |  |
 | **[Polynomial Dice Loss for Medical Image Segmentation](https://arxiv.org/abs/2606.23373v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to ICANN2026</p></details> |
 | **[EHR-Complex: Benchmarking Medical Agents for Complex Clinical Reasoning](https://arxiv.org/abs/2606.23301v1)** | 2026-06-22 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[From Gradient Clipping to Structural Refinement: Improving DPSGD for Medical Image Segmentation](https://arxiv.org/abs/2606.21763v1)** | 2026-06-19 |  |
 | **[EnTrust: Modeling Inter-Modal Conflict for Trustworthy Multimodal Medical Image Analysis](https://arxiv.org/abs/2606.21384v1)** | 2026-06-19 |  |
 | **[Graph-of-Differences: Anatomy-Structured Difference Alignment for Medical Image Re-Identification](https://arxiv.org/abs/2606.21368v1)** | 2026-06-19 |  |
-| **[MedTS-TTT: Test-Time Training for Medical Time Series Classification](https://arxiv.org/abs/2606.21329v1)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
-| **[MEDLAYXPLAIN: Benchmarking the Expert-Lay Gap in Medical Vision-Language Models](https://arxiv.org/abs/2606.21194v1)** | 2026-06-19 | <details><summary>40 pa...</summary><p>40 pages (10 pages main text, 30 pages appendix), 4 main figures, 33 vision-language models benchmarked</p></details> |
 
 ## Drug
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,30 @@ labels: documentation
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semantic Browsing: Controllable Diversity for Image Generation](https://arxiv.org/abs/2606.23679v1)** | 2026-06-22 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://saradorfman1.github.io/SemanticBrowsing-webpage/</p></details> |
-| **[Data Selection Through Iterative Self-Filtering for Vision-Language Settings](https://arxiv.org/abs/2606.23611v1)** | 2026-06-22 |  |
-| **[Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies](https://arxiv.org/abs/2606.23494v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
-| **[CADRE: Stable, Parameter Efficient Adaptation of Medical Vision Language Models with Bounded Forgetting and Prior Drift](https://arxiv.org/abs/2606.23487v1)** | 2026-06-22 |  |
-| **[CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2606.23206v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. 17 pages</p></details> |
-| **[Bridging Semantics and Kinematics: A Modular Framework for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2606.23157v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to RO-MAN 2026</p></details> |
-| **[T-VSS: Test-Time Visual Subspace Steering for Adversarial Robustness of Vision-Language Models](https://arxiv.org/abs/2606.23132v1)** | 2026-06-22 |  |
-| **[FlowTrain: Flow-Based Decoupled Training for Industrial-Grade Vision-Language Models](https://arxiv.org/abs/2606.23087v1)** | 2026-06-22 |  |
-| **[Black-Box Continual Learning for Vision-Language Models](https://arxiv.org/abs/2606.22999v1)** | 2026-06-22 |  |
-| **[Each Judge Its Own Yardstick: Discovering Per-VLM Taxonomies for Physical Video Evaluation](https://arxiv.org/abs/2606.22918v1)** | 2026-06-22 |  |
-| **[SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873v1)** | 2026-06-22 |  |
-| **[When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents](https://arxiv.org/abs/2606.22864v1)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Camera-ready version for EvalMG '26, The 2nd Workshop on Evaluation for Multimodal Generation, co-located with SIGIR 2026</p></details> |
-| **[Chains That See, Answers That Don't: A Multi-Aspect Evaluation Recipe for Forced Chain-of-Thought on Video-MME](https://arxiv.org/abs/2606.22862v1)** | 2026-06-22 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. To appear at The 2nd Workshop on Evaluation for Multimodal Generation @ SIGIR 2026 (EvalMG '26)</p></details> |
-| **[UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models](https://arxiv.org/abs/2606.22794v1)** | 2026-06-22 | <details><summary>Code ...</summary><p>Code is opensourced at https://github.com/linsun449/UniFS</p></details> |
-| **[DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings](https://arxiv.org/abs/2606.22779v1)** | 2026-06-22 |  |
+| **[Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics](https://arxiv.org/abs/2606.24814v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ETFA 2026</p></details> |
+| **[World Value Models for Robotic Manipulation](https://arxiv.org/abs/2606.24742v1)** | 2026-06-23 | preprint |
+| **[BioMedVR: Confusion-Aware Mixture-of-Prompt Experts for Biomedical Visual Reprogramming](https://arxiv.org/abs/2606.24740v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. 19 pages, 6 figures. Project page: https://jxliu-ai.github.io/biomedvr-page/</p></details> |
+| **[Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](https://arxiv.org/abs/2606.24716v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning](https://arxiv.org/abs/2606.24548v1)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 7 figures. Project page: https://github.com/jylei16/CF-World.github.io</p></details> |
+| **[VisCritic: Visual State Comparison as Process Reward for GUI Agents](https://arxiv.org/abs/2606.24525v1)** | 2026-06-23 | <details><summary>17 pa...</summary><p>17 pages, 4 figures; ECCV 2026 submission; supplementary material uploaded as ancillary file</p></details> |
+| **[Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to the 4th International Workshop on Generalizing from Limited Resources in the Open World (GLOW @ IJCAI 2026)</p></details> |
+| **[Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods](https://arxiv.org/abs/2606.24484v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[P-MTP: Efficient Document Parsing via Multi-Token Prediction with Progressive Depth Scaling](https://arxiv.org/abs/2606.24447v1)** | 2026-06-23 |  |
+| **[EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding](https://arxiv.org/abs/2606.24422v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://leiyj23.github.io/EgoSAT/</p></details> |
+| **[PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models](https://arxiv.org/abs/2606.24388v1)** | 2026-06-23 | <details><summary>The d...</summary><p>The dataset has been released at: https://huggingface.co/datasets/it4lia/PHANTOM</p></details> |
+| **[Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints](https://arxiv.org/abs/2606.24353v1)** | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted by ECCV 2026</p></details> |
+| **[Ill-Posed by Design: Probing Evidence Use in VLMs](https://arxiv.org/abs/2606.24335v1)** | 2026-06-23 |  |
+| **[A Benchmark for Hallucination Detection in VLMs for Gastrointestinal Endoscopy](https://arxiv.org/abs/2606.24115v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at the Medical Image Understanding and Analysis (MIUA) 2026 conference</p></details> |
+| **[DriveStack-VLA: Render-Teacher Alignment for BEV-Based DeepStack Vision-Language-Action Model](https://arxiv.org/abs/2606.24051v1)** | 2026-06-23 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884v1)** | 2026-06-23 | <details><summary>Proje...</summary><p>Project website: https://insight-vla.github.io</p></details> |
+| **[MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models](https://arxiv.org/abs/2606.24815v1)** | 2026-06-23 |  |
+| **[G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models](https://arxiv.org/abs/2606.24472v1)** | 2026-06-23 | <details><summary>Submi...</summary><p>Submitted to CoRL 2026</p></details> |
+| **[Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448v1)** | 2026-06-23 | 14 pages, 5 figures |
+| **[DriveStack-VLA: Render-Teacher Alignment for BEV-Based DeepStack Vision-Language-Action Model](https://arxiv.org/abs/2606.24051v1)** | 2026-06-23 |  |
 | **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
 | **[Flatness Preserves Instruction Following in Vision-Language-Action Models](https://arxiv.org/abs/2606.23641v1)** | 2026-06-22 |  |
 | **[dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models](https://arxiv.org/abs/2606.23623v1)** | 2026-06-22 |  |
@@ -93,9 +98,4 @@ labels: documentation
 | **[Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models](https://arxiv.org/abs/2606.23147v1)** | 2026-06-22 | <details><summary>Using...</summary><p>Using VLA in assistive robotics</p></details> |
 | **[Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents](https://arxiv.org/abs/2606.23085v1)** | 2026-06-22 |  |
 | **[Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models](https://arxiv.org/abs/2606.22966v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 10 tables</p></details> |
-| **[Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving](https://arxiv.org/abs/2606.22913v1)** | 2026-06-22 |  |
-| **[HiL-ResRL: A Model-Agnostic Finetuning Adapter via Human-in-the-loop Residual Reinforcement Learning](https://arxiv.org/abs/2606.22860v1)** | 2026-06-22 | 8 pages, 9 figures |
-| **[Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA](https://arxiv.org/abs/2606.22836v1)** | 2026-06-22 |  |
-| **[UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models](https://arxiv.org/abs/2606.22794v1)** | 2026-06-22 | <details><summary>Code ...</summary><p>Code is opensourced at https://github.com/linsun449/UniFS</p></details> |
-| **[PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models](https://arxiv.org/abs/2606.22540v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project page: https://inceptionwang.github.io/PolicyTrim/</p></details> |
 
