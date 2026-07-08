@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSA-DCNN: A Data-Efficient Multi-Scale Deformable CNN for Medical Image Classification](https://arxiv.org/abs/2607.06083v1)** | 2026-07-07 |  |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 | **[Doubly robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries](https://arxiv.org/abs/2607.05293v1)** | 2026-07-06 | <details><summary>15 pa...</summary><p>15 pages, 3 tables, 1 algorithm</p></details> |
 | **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2607.02185v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the IEEE ICIP 2026 LBDL 2 Workshop</p></details> |
 | **[Embracing Intra-Class Heterogeneity for Semi-Supervised Medical Image Segmentation: From Diversity to Precision](https://arxiv.org/abs/2607.02051v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by Medical Image Analysis</p></details> |
 | **[Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias](https://arxiv.org/abs/2607.01973v1)** | 2026-07-02 |  |
-| **[MedStreamBench: A Time-Aware Benchmark for Streaming and Proactive Medical Video Understanding](https://arxiv.org/abs/2607.01751v1)** | 2026-07-02 | 10 Pages, 5 Figures |
 
 ## Drug
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Protein
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design-CP: Context Parallelism for Design of Protein Nanoparticles](https://arxiv.org/abs/2607.05439v1)** | 2026-07-03 | <details><summary>Accep...</summary><p>Accepted at the 2026 Workshop on Generative and Agentic AI for Biology (ICML 2026)</p></details> |
 | **[Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE](https://arxiv.org/abs/2607.02749v1)** | 2026-07-02 |  |
 | **[MKGR: Multimodal Knowledge-Graph Representation Learning for Cold-Start Protein-Protein Interaction Prediction](https://arxiv.org/abs/2607.01627v1)** | 2026-07-02 |  |
 | **[Prior-informed conditional Gaussian graphical models: an application to protein interaction network reconstruction](https://arxiv.org/abs/2606.31805v1)** | 2026-06-30 |  |
@@ -59,30 +60,34 @@ labels: documentation
 | **[Emyx: Fast and efficient all-atom protein generation](https://arxiv.org/abs/2606.19377v1)** | 2026-06-12 |  |
 | **[Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14217v1)** | 2026-06-12 |  |
 | **[Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs](https://arxiv.org/abs/2606.19374v1)** | 2026-06-12 |  |
-| **[Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14159v1)** | 2026-06-12 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis](https://arxiv.org/abs/2607.05348v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://cxavireh.github.io/relgraphov-projectpage</p></details> |
-| **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
-| **[Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models](https://arxiv.org/abs/2607.05268v1)** | 2026-07-06 | <details><summary>52 pa...</summary><p>52 pages, 5 figures, Under review at TMLR</p></details> |
-| **[SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments](https://arxiv.org/abs/2607.05264v1)** | 2026-07-06 |  |
-| **[Repurposing CLIP to Localize at Pixel Level](https://arxiv.org/abs/2607.05253v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by IEEE TMM 2026</p></details> |
-| **[A Multimodal Reasoning Typology for Grounding Chart-Image Coherence in Science Communication](https://arxiv.org/abs/2607.05222v1)** | 2026-07-06 |  |
-| **[VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving](https://arxiv.org/abs/2607.05180v1)** | 2026-07-06 |  |
-| **[HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better](https://arxiv.org/abs/2607.04884v1)** | 2026-07-06 |  |
-| **[DeGenseGS: Geometrically and Semantically Decoupled Surgical Scene Understanding in 4D Gaussian Splatting](https://arxiv.org/abs/2607.04761v1)** | 2026-07-06 |  |
-| **[Solve the Missing First Step: Can VLMs Standardize Raw Heterogeneous Medical Data?](https://arxiv.org/abs/2607.04694v1)** | 2026-07-06 | 16 pages, 7 figures |
-| **[Does It Fail to See or Fail to Know? Attributing Errors in Vision-Language Models](https://arxiv.org/abs/2607.04683v1)** | 2026-07-06 |  |
-| **[PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.04637v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[StructuredEdit: Constraint-Aware Graphic Design Editing via Differentiable Parameter Propagation](https://arxiv.org/abs/2607.04612v1)** | 2026-07-06 | <details><summary>3 pag...</summary><p>3 page poster short paper.2 Figures, 2 Tables. Planned to submit to SIGGRAPH Asia</p></details> |
-| **[RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](https://arxiv.org/abs/2607.04610v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project website: https://berkeleyautomation.github.io/robovista/</p></details> |
-| **[TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models](https://arxiv.org/abs/2607.04593v1)** | 2026-07-06 |  |
+| **[Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment](https://arxiv.org/abs/2607.06522v1)** | 2026-07-07 | <details><summary>ICML'...</summary><p>ICML'26 Workshop RLxF: Reinforcement Learning from World Feedback</p></details> |
+| **[AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models](https://arxiv.org/abs/2607.06485v1)** | 2026-07-07 |  |
+| **[A VLM-Enhanced Framework for Comprehensive Traffic Sign Condition Assessment Integrating Daytime Visual Performance and Nighttime Retroreflectivity Evaluation](https://arxiv.org/abs/2607.06478v1)** | 2026-07-07 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 5 tables. Preprint. An earlier version of this work was presented at the 105th Annual Meeting of the Transportation Research Board (TRB), January 2026</p></details> |
+| **[Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders](https://arxiv.org/abs/2607.06445v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at the ICML 2026 Mechanistic Interpretability Workshop</p></details> |
+| **[What Images Cannot Say: Language-Guided Olfactory Representation Learning](https://arxiv.org/abs/2607.06402v1)** | 2026-07-07 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://www.lix.polytechnique.fr/vista/projects/2026_scent_tsonis/</p></details> |
+| **[VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery](https://arxiv.org/abs/2607.06374v1)** | 2026-07-07 | <details><summary>Code:...</summary><p>Code: https://github.com/AIGeeksGroup/VaseMuseum. Website: https://aigeeksgroup.github.io/VaseMuseum</p></details> |
+| **[TMF-RSE: Tri-Modal Fusion with Regional Semantics and Evidential Uncertainty for Lung Severity Scoring](https://arxiv.org/abs/2607.06356v1)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 5 tables. IEEE conference format (IEEEtran). Submitted to AVSS 2026. Tri-modal fusion for lung severity scoring using appearance, segmentation, and VLM semantics with evidential uncertainty</p></details> |
+| **[UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation](https://arxiv.org/abs/2607.06306v1)** | 2026-07-07 |  |
+| **[Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition](https://arxiv.org/abs/2607.06256v1)** | 2026-07-07 |  |
+| **[VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection](https://arxiv.org/abs/2607.06254v1)** | 2026-07-07 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 3 tables. Code and data: https://github.com/sharayu-20/vendorbench-100</p></details> |
+| **[Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](https://arxiv.org/abs/2607.06196v1)** | 2026-07-07 |  |
+| **[Calf-Integrated Arms for Bimanual Quadruped Loco-Manipulation](https://arxiv.org/abs/2607.06186v1)** | 2026-07-07 | 6 pages, 6 figures |
+| **[Structured-Condensed Prompt Tuning in Vision-Language Models for Fine-grained Image Recognition](https://arxiv.org/abs/2607.06185v1)** | 2026-07-07 |  |
+| **[EAGOR: Embodied Reasoning in Omni-direction](https://arxiv.org/abs/2607.06165v1)** | 2026-07-07 | <details><summary>12 Pa...</summary><p>12 Pages, 7 Figures, 4 Tables</p></details> |
+| **[DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control](https://arxiv.org/abs/2607.05883v1)** | 2026-07-07 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
+| **[SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models](https://arxiv.org/abs/2607.06442v1)** | 2026-07-07 | <details><summary>The c...</summary><p>The code is available at \href{https://github.com/ChangtiWu/SIEVE}{SIEVE}</p></details> |
+| **[Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement](https://arxiv.org/abs/2607.06370v1)** | 2026-07-07 |  |
+| **[Optimal Transport Q-Learning for Flow Policy Steering and Acceleration](https://arxiv.org/abs/2607.06262v1)** | 2026-07-07 |  |
+| **[Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition](https://arxiv.org/abs/2607.06256v1)** | 2026-07-07 |  |
 | **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](https://arxiv.org/abs/2607.05396v1)** | 2026-07-06 |  |
 | **[Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](https://arxiv.org/abs/2607.05377v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project website: https://steinate.github.io/cortex.github.io/</p></details> |
 | **[Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies](https://arxiv.org/abs/2607.05122v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted for RSS 2026 workshop</p></details> |
@@ -93,9 +98,4 @@ labels: documentation
 | **[PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.04637v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[SEAM: Smooth Execution of Action-Chunked Motion for Vision-Language-Action Policies](https://arxiv.org/abs/2607.04609v1)** | 2026-07-06 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables</p></details> |
 | **[Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning](https://arxiv.org/abs/2607.04591v1)** | 2026-07-06 | 20 pages |
-| **[VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models](https://arxiv.org/abs/2607.04517v1)** | 2026-07-05 |  |
-| **[XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control](https://arxiv.org/abs/2607.04171v1)** | 2026-07-05 | Preprint |
-| **[!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics](https://arxiv.org/abs/2607.04146v1)** | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted at KI2026. Repo: https://github.com/StefanBuhler/ImperioVLAPoisoning</p></details> |
-| **[Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models](https://arxiv.org/abs/2607.03751v1)** | 2026-07-04 |  |
-| **[CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts](https://arxiv.org/abs/2607.03693v1)** | 2026-07-04 |  |
 
