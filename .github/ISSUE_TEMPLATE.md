@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift](https://arxiv.org/abs/2607.15231v1)** | 2026-07-16 | <details><summary>X pag...</summary><p>X pages, 3 figures, 3 tables; submitted to AAAI 2027</p></details> |
+| **[MedFailBench: A Clinician-Built Open-Source Benchmark for Medical AI Safety Boundary Inspection](https://arxiv.org/abs/2607.15166v1)** | 2026-07-16 | <details><summary>6 pag...</summary><p>6 pages; clinician-reviewed synthetic benchmark; no patient data</p></details> |
+| **[Multimodal Semantic-Aware Contrastive Learning For False Negative Mitigation in 3D Medical Imaging](https://arxiv.org/abs/2607.14995v1)** | 2026-07-16 |  |
+| **[Demographically-Conditioned Synthetic Medical Images for Bias Mitigation and Bias Detection in Disease Classifiers](https://arxiv.org/abs/2607.14984v1)** | 2026-07-16 |  |
 | **[Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models](https://arxiv.org/abs/2607.13860v1)** | 2026-07-15 |  |
 | **[TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model](https://arxiv.org/abs/2607.13812v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025. Code is available at https://github.com/Fredy-Zhang/TCAM-Diff</p></details> |
 | **[Layered Risk Mapping for Autonomous Patient Transport in Expeditionary Medical Facilities](https://arxiv.org/abs/2607.13497v1)** | 2026-07-15 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function](https://arxiv.org/abs/2607.12586v1)** | 2026-07-14 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Keywords: medical image segmentation, curvature regularization, loss function, active contour model, mean curvature, deep learning. Under review at Biomedical Signal Processing and Control</p></details> |
 | **[Steering Diffusion Models via Class-Contrastive Influence for Few-Shot Medical Classification](https://arxiv.org/abs/2607.12464v1)** | 2026-07-14 |  |
 | **[An Empirical Analysis of Continual Learning for Heterogeneous Medical Visual Question Answering](https://arxiv.org/abs/2607.12048v1)** | 2026-07-13 |  |
-| **[LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments](https://arxiv.org/abs/2607.11839v1)** | 2026-07-13 |  |
-| **[CFR-Net:Collaborative Feature Refnement Network for Medical Image Anomaly Detection](https://arxiv.org/abs/2607.11509v1)** | 2026-07-13 |  |
-| **[The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy](https://arxiv.org/abs/2607.11175v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page: https://github.com/zhcz328/Awesome-Medical-Agents</p></details> |
-| **[Learning To Focus: Anatomy-Guided Attention Regularization for Medical Image Classification](https://arxiv.org/abs/2607.10851v1)** | 2026-07-12 |  |
 
 ## Drug
 | **Title** | **Date** | **Comment** |
@@ -64,38 +64,38 @@ labels: documentation
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning](https://arxiv.org/abs/2607.13931v1)** | 2026-07-15 | 27 pages, 11 figures |
-| **[S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926v1)** | 2026-07-15 |  |
-| **[Fine-grained CLIP fine-tuning with self-annotated region alignment](https://arxiv.org/abs/2607.13661v1)** | 2026-07-15 |  |
-| **[Semantic Anchoring for Robotic Action Representations](https://arxiv.org/abs/2607.13597v1)** | 2026-07-15 |  |
-| **[GHR-VLM: Making Zero-Shot Transit Video Analytics Realizable with Grounded Hybrid Reasoning](https://arxiv.org/abs/2607.13569v1)** | 2026-07-15 |  |
-| **[ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning](https://arxiv.org/abs/2607.13539v1)** | 2026-07-15 | 20 pages |
-| **[Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models](https://arxiv.org/abs/2607.13500v1)** | 2026-07-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Joint On-and-Off Policy Learning for Vision-and-Language Navigation](https://arxiv.org/abs/2607.13461v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
-| **[Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](https://arxiv.org/abs/2607.13429v1)** | 2026-07-15 | <details><summary>Code:...</summary><p>Code: https://github.com/dwipddalal/Anchor-Align</p></details> |
-| **[Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models](https://arxiv.org/abs/2607.13395v1)** | 2026-07-15 |  |
-| **[Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management](https://arxiv.org/abs/2607.13239v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at IEEE ITSC 2026</p></details> |
-| **[How You Ask Shapes What You Get: Auditing Breast-Cancer Misinformation in TikTok Search](https://arxiv.org/abs/2607.13147v1)** | 2026-07-14 |  |
-| **[Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning](https://arxiv.org/abs/2607.12818v2)** | 2026-07-15 |  |
-| **[Visual Access Boundaries in Vision-Language Model Reasoning](https://arxiv.org/abs/2607.12815v1)** | 2026-07-14 |  |
-| **[CoRe: A Comprehensive Framework for Cross-Image Comparative Reasoning in Vision-Language Models](https://arxiv.org/abs/2607.12786v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted by ACMMM2026</p></details> |
+| **[HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning](https://arxiv.org/abs/2607.15255v1)** | 2026-07-16 |  |
+| **[ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors](https://arxiv.org/abs/2607.15246v1)** | 2026-07-16 |  |
+| **[U-shaped Multi-granularity Learning for Vision-Language Models](https://arxiv.org/abs/2607.14966v1)** | 2026-07-16 |  |
+| **[AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](https://arxiv.org/abs/2607.14756v1)** | 2026-07-16 |  |
+| **[WorkDrive: Roadwork Chain of Causation for Autonomous Driving](https://arxiv.org/abs/2607.14727v1)** | 2026-07-16 |  |
+| **[An Intelligent-Cloud Edge Multimodal Interaction System for Robots](https://arxiv.org/abs/2607.14675v1)** | 2026-07-16 |  |
+| **[Knowing You at First Glance: Inferring Apparent Personality from Faces](https://arxiv.org/abs/2607.14631v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by The 9th Chinese Conference on Pattern Recognition and Computer Vision, PRCV2026</p></details> |
+| **[SportD: Can VLMs Physically Strategize?](https://arxiv.org/abs/2607.14616v1)** | 2026-07-16 |  |
+| **[SoftNav: Injecting 3D Scene Tokens into VLMs for Embodied Navigation](https://arxiv.org/abs/2607.14586v1)** | 2026-07-16 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
+| **[Multi-LLM Collaborative MRI Report Generation for Visual Instruction Tuning in Brain Oncology](https://arxiv.org/abs/2607.14581v1)** | 2026-07-16 |  |
+| **[SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents](https://arxiv.org/abs/2607.14543v1)** | 2026-07-16 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 6 figures, 4 tables</p></details> |
+| **[VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation](https://arxiv.org/abs/2607.14514v1)** | 2026-07-16 |  |
+| **[Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions](https://arxiv.org/abs/2607.14499v1)** | 2026-07-16 |  |
+| **[SD-MAR: Multi-image Analytical Reasoning via Synthetic Data and Reinforcement Learning](https://arxiv.org/abs/2607.14333v1)** | 2026-07-15 |  |
+| **[DiMaS: Distribution Matching for Steering Vision-Language-Action Models](https://arxiv.org/abs/2607.14280v1)** | 2026-07-15 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project website: http://research.nvidia.com/labs/gear/robottt/</p></details> |
+| **[Video = World + Event Stream](https://arxiv.org/abs/2607.15038v1)** | 2026-07-16 | <details><summary>websi...</summary><p>website; https://wan-streamer.com/</p></details> |
+| **[CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking](https://arxiv.org/abs/2607.15004v1)** | 2026-07-16 |  |
+| **[AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight](https://arxiv.org/abs/2607.14997v1)** | 2026-07-16 |  |
+| **[Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation](https://arxiv.org/abs/2607.14852v1)** | 2026-07-16 |  |
+| **[FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models](https://arxiv.org/abs/2607.14739v1)** | 2026-07-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 8 tables. Project page: https://liauto-research.github.io/FoMoVLA</p></details> |
+| **[Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color](https://arxiv.org/abs/2607.14698v1)** | 2026-07-16 |  |
+| **[Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695v1)** | 2026-07-16 | Accepted by ICML2026 |
+| **[Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models](https://arxiv.org/abs/2607.14635v1)** | 2026-07-16 |  |
+| **[Representation-Aligned Tactile Grounding for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2607.14609v1)** | 2026-07-16 |  |
+| **[DiMaS: Distribution Matching for Steering Vision-Language-Action Models](https://arxiv.org/abs/2607.14280v1)** | 2026-07-15 |  |
+| **[Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236v1)** | 2026-07-15 | <details><summary>Proje...</summary><p>Project page: https://lift-policy.github.io/</p></details> |
 | **[S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926v1)** | 2026-07-15 |  |
 | **[Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning](https://arxiv.org/abs/2607.13818v1)** | 2026-07-15 |  |
 | **[UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following](https://arxiv.org/abs/2607.13621v1)** | 2026-07-15 |  |
-| **[Semantic Anchoring for Robotic Action Representations](https://arxiv.org/abs/2607.13597v1)** | 2026-07-15 |  |
-| **[Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](https://arxiv.org/abs/2607.13429v1)** | 2026-07-15 | <details><summary>Code:...</summary><p>Code: https://github.com/dwipddalal/Anchor-Align</p></details> |
-| **[ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning](https://arxiv.org/abs/2607.12992v1)** | 2026-07-14 |  |
-| **[ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931v1)** | 2026-07-14 |  |
-| **[Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference](https://arxiv.org/abs/2607.12659v1)** | 2026-07-14 | 16 pages, 10 figures |
-| **[TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors](https://arxiv.org/abs/2607.12571v1)** | 2026-07-14 |  |
-| **[VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation](https://arxiv.org/abs/2607.12356v1)** | 2026-07-14 |  |
-| **[Reducing Temporal Redundancy for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2607.12287v1)** | 2026-07-14 | 13pages, 7 figuers |
-| **[From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence](https://arxiv.org/abs/2607.11689v1)** | 2026-07-13 | Ongoing work |
-| **[See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models](https://arxiv.org/abs/2607.11498v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page: https://davian-robotics.github.io/pointmap/</p></details> |
-| **[Towards Predictive, Aligned, and Scalable Robot Learning](https://arxiv.org/abs/2607.11270v1)** | 2026-07-13 |  |
-| **[VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119v1)** | 2026-07-13 |  |
 
