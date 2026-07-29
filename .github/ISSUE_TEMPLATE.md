@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://arxiv.org/abs/2607.24743v1)** | 2026-07-27 | <details><summary>Code:...</summary><p>Code: https://github.com/alibaba-damo-academy/ClinFusion; Models: https://huggingface.co/collections/Alibaba-DAMO-Academy/clinfusion</p></details> |
+| **[Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.25432v1)** | 2026-07-28 |  |
+| **[Medical world models in healthcare: foundations, applications, and challenges for trustworthy clinical translation](https://arxiv.org/abs/2607.25242v1)** | 2026-07-28 |  |
+| **[Deep Label-Wise Attentive Temporal Convolutional Networks Improve Medical Coding](https://arxiv.org/abs/2607.25129v1)** | 2026-07-27 | <details><summary>Work ...</summary><p>Work carried out in 2019; posted as a record of the work. Baselines and state of the art reflect the 2019 literature</p></details> |
+| **[Unifying Active Learning and Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2607.25014v1)** | 2026-07-27 |  |
+| **[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://arxiv.org/abs/2607.24743v2)** | 2026-07-28 | <details><summary>Code:...</summary><p>Code: https://github.com/alibaba-damo-academy/ClinFusion Models: https://huggingface.co/collections/Alibaba-DAMO-Academy/clinfusion</p></details> |
 | **[KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](https://arxiv.org/abs/2607.24730v1)** | 2026-07-27 | MICCAI 2026 |
 | **[Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation](https://arxiv.org/abs/2607.24288v1)** | 2026-07-27 | 7 pages, 2 figures |
 | **[Long-Tailed Medical Image Classification](https://arxiv.org/abs/2607.23883v1)** | 2026-07-26 |  |
+| **[The Mirage of LLM Guardrails: A Case Study in AI-Assisted Medical Note Manipulation](https://arxiv.org/abs/2607.24859v1)** | 2026-07-26 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 4 tables</p></details> |
 | **[AdaKAN: A dual-branch adaptive Kolmogorov-Arnold network for medical image segmentation](https://arxiv.org/abs/2607.22891v1)** | 2026-07-24 |  |
 | **[SLIP: Segmentation with Low-latency Interactive Prompting for 3D Medical Images](https://arxiv.org/abs/2607.22332v1)** | 2026-07-24 |  |
+| **[MedJudgeRAG: Option-Wise Evidence Judgment with Dynamic Knowledge Graphs for Medical MCQA](https://arxiv.org/abs/2607.24838v1)** | 2026-07-24 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, Accepted at The Workshop on Graph Foundation Models at the 43 rd International Conference on Machine Learning (ICML 2026)</p></details> |
 | **[Medical-Checklist: Assessing the Comprehension of Medical Images by Multimodal Models](https://arxiv.org/abs/2607.21998v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
 | **[TextSLIP: Text Self-Supervised CLIP for Medical Report Generation](https://arxiv.org/abs/2607.21970v1)** | 2026-07-24 | 9 pages |
 | **[Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions](https://arxiv.org/abs/2607.21904v1)** | 2026-07-24 |  |
-| **[MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://arxiv.org/abs/2607.21570v1)** | 2026-07-23 | <details><summary>Work ...</summary><p>Work in Progress; an explorational design and study on AI+Education+Game</p></details> |
-| **[Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification](https://arxiv.org/abs/2607.21186v1)** | 2026-07-23 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 2 tables</p></details> |
-| **[Auditing Evidence Use in Medical LLM Diagnosis](https://arxiv.org/abs/2607.20848v1)** | 2026-07-23 |  |
-| **[One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification](https://arxiv.org/abs/2607.20641v1)** | 2026-07-22 | <details><summary>The 1...</summary><p>The 14th IEEE International Conference on Healthcare Informatics</p></details> |
-| **[Self-supervision drives representational convergence in medical foundation models more than clinical supervision](https://arxiv.org/abs/2607.20274v1)** | 2026-07-22 |  |
-| **[Bayesian uncertainty estimation improves clinical decision making in medical AI agents](https://arxiv.org/abs/2607.20582v1)** | 2026-07-22 |  |
 
 ## Drug
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Cellular Responses to Pharmacological Domains: Multimodal Zero-Shot Drug Representation Learning](https://arxiv.org/abs/2607.25322v1)** | 2026-07-28 |  |
 | **[ASTRA-Net: Anatomy-Specific Transfer and Representation Alignment for Drug-Induced Sleep Endoscopy Segmentation](https://arxiv.org/abs/2607.21370v1)** | 2026-07-23 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 5 tables</p></details> |
 | **[Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development](https://arxiv.org/abs/2607.18696v1)** | 2026-07-21 | <details><summary>Worki...</summary><p>Working paper. Includes public no-label benchmark cases and dry-lab evaluation artifacts. No wet-lab, patient-level, clinical, regulatory, or investment validation is claimed</p></details> |
 | **[Beyond SBDD: Geometric Deep Learning in Polypharmacology and Multi-target Drug Design](https://arxiv.org/abs/2607.20550v1)** | 2026-07-14 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Explainable AI for Cancer Drug Response Prediction: Beyond Univariate Feature Attributions](https://arxiv.org/abs/2607.00931v1)** | 2026-07-01 |  |
 | **[DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction](https://arxiv.org/abs/2606.31085v1)** | 2026-06-30 |  |
 | **[Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark](https://arxiv.org/abs/2606.30170v1)** | 2026-06-29 |  |
-| **[Modeling Cell-Cycle-Aware Single-Cell Drug Perturbation Responses](https://arxiv.org/abs/2606.30695v2)** | 2026-07-03 |  |
 
 ## Protein
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,29 @@ labels: documentation
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](https://arxiv.org/abs/2607.26042v1)** | 2026-07-28 |  |
+| **[MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities](https://arxiv.org/abs/2607.25948v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Project page: https://modus-multimodal.epfl.ch</p></details> |
+| **[Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA](https://arxiv.org/abs/2607.25921v1)** | 2026-07-28 |  |
+| **[Fine-Grained Food Image Understanding via Target-Aware Data Alignment](https://arxiv.org/abs/2607.25794v1)** | 2026-07-28 |  |
+| **[Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications](https://arxiv.org/abs/2607.25642v1)** | 2026-07-28 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, Vicinagearth</p></details> |
+| **[Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact](https://arxiv.org/abs/2607.25589v1)** | 2026-07-28 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Retrospective artifact audit; no new model calls or annotations. Corrective audit and archival reconstruction: https://doi.org/10.5281/zenodo.21629849</p></details> |
+| **[Argus-Unified: Towards A Compact and Economical Unified Model for Image Understanding and Generation](https://arxiv.org/abs/2607.25527v1)** | 2026-07-28 |  |
+| **[Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering](https://arxiv.org/abs/2607.25479v1)** | 2026-07-28 |  |
+| **[Towards Reliable Stain Transfer: An Iterative Data-Model Co-Optimization Framework Based on Multimodal Expert-Guided Assessment](https://arxiv.org/abs/2607.25393v1)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, accepted by ACMMM2026 Main Track</p></details> |
+| **[IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation](https://arxiv.org/abs/2607.25106v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Project page: https://github.com/JelinR/IMPRINT</p></details> |
+| **[Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model](https://arxiv.org/abs/2607.24904v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project page: https://microsoft.github.io/Mage</p></details> |
 | **[KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](https://arxiv.org/abs/2607.24730v1)** | 2026-07-27 | MICCAI 2026 |
 | **[ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams](https://arxiv.org/abs/2607.24707v1)** | 2026-07-27 |  |
 | **[Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651v1)** | 2026-07-27 |  |
-| **[Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts](https://arxiv.org/abs/2607.24611v1)** | 2026-07-27 |  |
-| **[CADER: Confidence-Aware Dynamic Evidence Reasoning for Long-Video Understanding](https://arxiv.org/abs/2607.24582v1)** | 2026-07-27 |  |
-| **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
-| **[DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes](https://arxiv.org/abs/2607.24516v1)** | 2026-07-27 |  |
-| **[Bigger or Cheaper? Scale and Quantization Effects on Uncertainty Signals in Vision-Language Models Under Image Degradation](https://arxiv.org/abs/2607.24440v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. Code and data: https://github.com/Asif-Ferdous/vlm-scale-quant</p></details> |
-| **[MAViE: A Multi-scale Adaptive Vision Encoder for Fine-grained Visual Perception and Efficient Multimodal Reasoning](https://arxiv.org/abs/2607.24424v1)** | 2026-07-27 | 10 pages |
-| **[Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](https://arxiv.org/abs/2607.24354v1)** | 2026-07-27 |  |
-| **[Reasoning to Regulate: Chain-of-Thought for Traffic Rule Understanding](https://arxiv.org/abs/2607.24199v1)** | 2026-07-27 | Technical Report |
-| **[When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents](https://arxiv.org/abs/2607.24077v1)** | 2026-07-27 |  |
-| **[MarineEVT: Advancing Event-Centric Marine Video Understanding via Visual Tool Reasoning](https://arxiv.org/abs/2607.24064v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted to The 19th European Conference on Computer Vision (ECCV) 2026</p></details> |
-| **[Development of Vision-Language Model-based GNSS Spoofing Detection for Autonomous Vehicle Navigation](https://arxiv.org/abs/2607.23962v1)** | 2026-07-27 |  |
-| **[GOTS: Greedy Orthogonal Token Selection for High-Resolution Vision-Language Models](https://arxiv.org/abs/2607.23913v1)** | 2026-07-27 |  |
+| **[Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed](https://arxiv.org/abs/2607.24898v1)** | 2026-07-27 | <details><summary>18 pa...</summary><p>18 pages, under review</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2607.25912v1)** | 2026-07-28 | 8 pages, 4 figures |
+| **[HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895v1)** | 2026-07-28 | <details><summary>33 pa...</summary><p>33 pages, 15 figures, 4 tables. Project page: https://cloud.simpleai.tech/simple-world-lab/hifi-umi/ Dataset: https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K</p></details> |
+| **[A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models](https://arxiv.org/abs/2607.25516v1)** | 2026-07-28 |  |
+| **[CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model](https://arxiv.org/abs/2607.25487v1)** | 2026-07-28 | <details><summary>22 pa...</summary><p>22 pages, 2 figures, 20 tables. Code at https://github.com/BrainJellyPie/CoTinyVLA</p></details> |
 | **[Data Pyramid for Embodied Manipulation](https://arxiv.org/abs/2607.24744v1)** | 2026-07-27 | <details><summary>Aweso...</summary><p>Awesome Embodied Data Pyramid; Project Page at https://jasper-aaa.github.io/embodied-data-pyramid/ GitHub Repo at https://github.com/worldbench/awesome-embodied-data-pyramid</p></details> |
 | **[τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision](https://arxiv.org/abs/2607.24485v1)** | 2026-07-27 |  |
 | **[DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning](https://arxiv.org/abs/2607.24159v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project page with videos, code, and checkpoints: https://deva-model.github.io/</p></details> |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline](https://arxiv.org/abs/2607.22997v1)** | 2026-07-25 |  |
 | **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
 | **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
-| **[HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving](https://arxiv.org/abs/2607.20988v1)** | 2026-07-23 | <details><summary>20 pa...</summary><p>20 pages with 13 figures</p></details> |
-| **[Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](https://arxiv.org/abs/2607.20345v1)** | 2026-07-22 | <details><summary>8 pag...</summary><p>8 pages. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://arxiv.org/abs/2607.20061v1)** | 2026-07-22 |  |
-| **[LENS: LLM-guided Environment Simplification for Planning and Control in Clutter](https://arxiv.org/abs/2607.19633v1)** | 2026-07-22 |  |
 
