@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Protein
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Off-Manifold Collapse in Guided Protein Language Models](https://arxiv.org/abs/2608.18597v1)** | 2026-08-19 | 12 pages |
 | **[Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling](https://arxiv.org/abs/2608.16094v1)** | 2026-08-17 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 4 tables. Preprint submitted to Elsevier</p></details> |
 | **[EGRL: Edge generation-guided relation-aware learning for RNA-protein interaction prediction](https://arxiv.org/abs/2608.12906v1)** | 2026-08-13 |  |
 | **[How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models](https://arxiv.org/abs/2608.12192v1)** | 2026-08-12 | <details><summary>Proce...</summary><p>Proceedings of the ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling (SPIGM)</p></details> |
@@ -40,30 +41,35 @@ labels: documentation
 | **[Neural spectroscopy of AlphaFold2 reveals encoded protein conformational landscapes](https://arxiv.org/abs/2607.16087v1)** | 2026-07-17 |  |
 | **[DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales](https://arxiv.org/abs/2607.15309v1)** | 2026-07-15 |  |
 | **[Exploring the Alignment of Generation and Understanding in Protein Structure Modeling](https://arxiv.org/abs/2607.13503v1)** | 2026-07-15 |  |
-| **[Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy](https://arxiv.org/abs/2607.10887v1)** | 2026-07-12 |  |
 
 ## Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cluster-Graph Edit Distance: Metric Proxies, Multiscale Embeddings, and Complexity](https://arxiv.org/abs/2608.17990v1)** | 2026-08-18 | 43 pages, 4 figures |
-| **[Efficient RLVR Scheduling via Graph-Structured Online Difficulty Estimation](https://arxiv.org/abs/2608.17941v1)** | 2026-08-18 |  |
-| **[Graph-Adaptive Horseshoe for Compositional Regression](https://arxiv.org/abs/2608.17858v1)** | 2026-08-18 |  |
-| **[Parameterized complexity of $k$-Coloring in graphs with no long induced paths](https://arxiv.org/abs/2608.17835v1)** | 2026-08-18 |  |
-| **[ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-neural-network Processor for High-resolution Vision at the Edge](https://arxiv.org/abs/2608.17787v1)** | 2026-08-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE JSSC for possible publication</p></details> |
-| **[Graph Surgery and the Do-Operator: A Precise Correspondence for Acyclic Structural Causal Models](https://arxiv.org/abs/2608.17634v1)** | 2026-08-18 |  |
-| **[OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects](https://arxiv.org/abs/2608.17633v1)** | 2026-08-18 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, including appendix</p></details> |
-| **[Counting in Population Protocols on Graphs](https://arxiv.org/abs/2608.17590v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted to DISC 2026</p></details> |
-| **[NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/2608.17487v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted to Pattern Recognition</p></details> |
-| **[Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning](https://arxiv.org/abs/2608.17443v1)** | 2026-08-18 |  |
-| **[Cognitive Graph Intelligence for Adaptive and Robust DDoS Attack Detection in Next Generation Networks](https://arxiv.org/abs/2608.17352v1)** | 2026-08-18 |  |
-| **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | <details><summary>15 pa...</summary><p>15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725</p></details> |
-| **[Quipu: A Governed Bitemporal Knowledge Graph Store](https://arxiv.org/abs/2608.16813v1)** | 2026-08-17 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables. Subtitle: "Start strict: rethinking knowledge-graph defaults for agent-written knowledge". Source and the benchmark/census/ artifacts behind every reported number are archived at doi:10.5281/zenodo.21878428 (concept DOI, resolves to newest release). Development repository: github.com/scbrown/quipu</p></details> |
-| **[Spectral Fingerprints of Street-Network Morphology: A Size-Adjusted Graph-Laplacian Descriptor of Urban Fabric](https://arxiv.org/abs/2608.16758v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 7 figures. Under review at Journal of Complex Networks (Oxford University Press)</p></details> |
-| **[Graph Machine Learning: An Opportunity for Power Systems](https://arxiv.org/abs/2608.16494v1)** | 2026-08-17 |  |
+| **[Learning Random Geometric Graphs Drawn in Probabilistic Metric Spaces](https://arxiv.org/abs/2608.19082v1)** | 2026-08-19 |  |
+| **[GrabVG: Graph-Attentive Binding for Visual Grounding in UAV Imagery](https://arxiv.org/abs/2608.18996v1)** | 2026-08-19 |  |
+| **[Tight Energy Lower Bounds for Distributed Graph Algorithms](https://arxiv.org/abs/2608.18992v1)** | 2026-08-19 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
+| **[MediaGraph: A Content-Aware Data Model and Query Framework for Multimodal Knowledge Graphs](https://arxiv.org/abs/2608.18895v1)** | 2026-08-19 |  |
+| **[Graph-Based Approaches to Learning Epileptogenic Zone Localization Using Stereo-EEG Recordings](https://arxiv.org/abs/2608.18887v1)** | 2026-08-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Accepted for the Proceedings of IEEE WCCI 2026 (IJCNN), Maastricht, Netherlands</p></details> |
+| **[Identifying Implicit Premises for Logical Reconstruction of Argument Graphs](https://arxiv.org/abs/2608.18821v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted at the 11th International Conference on Computational Models of Argument (COMMA 2026)</p></details> |
+| **[GraphK: Variable-Size Graph Generation with Efficient Edge Construction](https://arxiv.org/abs/2608.18777v1)** | 2026-08-19 |  |
+| **[An Integer Programming Approach to Compute Lower Bounds for Ramsey Numbers Using Circulant Graphs](https://arxiv.org/abs/2608.18769v1)** | 2026-08-19 |  |
+| **[Enhancing Distance-Based Graph Autoencoders with Structural Penalties for Dynamic Graph Embedding](https://arxiv.org/abs/2608.18762v1)** | 2026-08-19 |  |
+| **[Fair, Efficient and Connected Allocations on Graphs](https://arxiv.org/abs/2608.18703v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to Algorithmic Decision Theory (ADT) 2026, Paris, France</p></details> |
+| **[A Simple Construction of Locally Checkable Problems Filling the LOCAL Complexity Gaps in Graphs with Arbitrary Large Degrees](https://arxiv.org/abs/2608.18684v1)** | 2026-08-19 | 23 pages, 4 figures |
+| **[FRAGMENT: Factorized Graph Representations for Document Generation and Editing via Entity-Aware Transformations](https://arxiv.org/abs/2608.18679v1)** | 2026-08-19 |  |
+| **[Hardness of Forcing Unique Perfect Matchings in Bipartite Graphs of Maximum Degree 3](https://arxiv.org/abs/2608.18617v1)** | 2026-08-19 | 9 pages, 5 figures |
+| **[An FPRAS for Antiferromagnetic Ising Models on Random Regular Bipartite Graphs](https://arxiv.org/abs/2608.18612v1)** | 2026-08-19 |  |
+| **[DyG$^2$T: Modeling Object Dynamics with 3D Gaussian Temporal-Spatial Particle Graph Transformer](https://arxiv.org/abs/2608.18498v1)** | 2026-08-19 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DA-WAM: Decision-Aligned Future Latents for Driving World Models](https://arxiv.org/abs/2608.19085v1)** | 2026-08-19 |  |
+| **[Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning](https://arxiv.org/abs/2608.18746v1)** | 2026-08-19 |  |
+| **[Reinforced Planning with Latent World Models](https://arxiv.org/abs/2608.18669v1)** | 2026-08-19 | Preprint |
+| **[Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation](https://arxiv.org/abs/2608.18647v1)** | 2026-08-19 |  |
+| **[Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models](https://arxiv.org/abs/2608.18484v1)** | 2026-08-19 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Project page: https://pardistaghavi.github.io/SparsePR-website/</p></details> |
+| **[GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction](https://arxiv.org/abs/2608.18234v1)** | 2026-08-18 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 4 tables. Technical report. Project page: https://shepherd1226.github.io/gigabrain-wbc-0.5/</p></details> |
 | **[Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077v1)** | 2026-08-18 | <details><summary>Proje...</summary><p>Project page: https://nvidia-isaac.github.io/video_to_data/hydra-0/</p></details> |
 | **[Towards Zero-Shot Task Transfer with Neurosymbolic World Models](https://arxiv.org/abs/2608.17959v1)** | 2026-08-18 |  |
 | **[An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models](https://arxiv.org/abs/2608.17956v1)** | 2026-08-18 | <details><summary>92 pa...</summary><p>92 pages, 5 figures. Code, data and result artifacts: https://github.com/JaviMaligno/code-world-models</p></details> |
@@ -73,16 +79,12 @@ labels: documentation
 | **[Q-Learning With World Models](https://arxiv.org/abs/2608.17163v1)** | 2026-08-17 |  |
 | **[Inference-Time Attention Steering for Vision-Language-Action Driving Models](https://arxiv.org/abs/2608.17095v1)** | 2026-08-17 | <details><summary>Atten...</summary><p>Attention Steering, Vision-Language-Action, AutonomousDriving, Inference-Time Intervention</p></details> |
 | **[$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Project page: https://tau0-vla.github.io/</p></details> |
-| **[HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://arxiv.org/abs/2608.16859v1)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project Page: https://mirros-lab.github.io/HarnessEval-W</p></details> |
-| **[CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?](https://arxiv.org/abs/2608.16829v1)** | 2026-08-17 |  |
-| **[Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents](https://arxiv.org/abs/2608.16651v1)** | 2026-08-17 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Accepted to AP-GARSS 2026. Project page: https://zhijianli2003.github.io/Orbit_Planner/</p></details> |
-| **[DriveCache: Action-Aware Caching for Driving World Model Inference](https://arxiv.org/abs/2608.16354v1)** | 2026-08-17 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 4 tables</p></details> |
-| **[SCALE: State-Calibrated Latent Embeddings for JEPA Planning in the Right Geometry](https://arxiv.org/abs/2608.16287v1)** | 2026-08-17 | 15 pages, 2 figures |
-| **[GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234v1)** | 2026-08-17 |  |
 
 ## horizon
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents](https://arxiv.org/abs/2608.18852v1)** | 2026-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables. Code: https://github.com/DeepExperience/SkillGate. Models: https://huggingface.co/simonlqy/SkillGate-9B</p></details> |
+| **[FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents](https://arxiv.org/abs/2608.18423v1)** | 2026-08-19 |  |
 | **[Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents](https://arxiv.org/abs/2608.17718v1)** | 2026-08-18 |  |
 | **[Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents](https://arxiv.org/abs/2608.17319v1)** | 2026-08-18 |  |
 | **[Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://arxiv.org/abs/2608.17310v1)** | 2026-08-18 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[PACE: Phase-Progress-Aware Credit for Long-Horizon Embodied Manipulation](https://arxiv.org/abs/2608.15026v1)** | 2026-08-15 | 9 pages, 6 figures |
 | **[GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2608.14986v1)** | 2026-08-15 | <details><summary>8 pag...</summary><p>8 pages, 10 figures. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
 | **[Emergent Misaligned Communication in Long-Horizon Multi-Agent LLM Commerce](https://arxiv.org/abs/2608.14825v2)** | 2026-08-18 |  |
-| **[AgentRewind: Recoverable Execution for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.14380v1)** | 2026-08-14 | 19 pages, 5 figures |
-| **[ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond](https://arxiv.org/abs/2608.14354v1)** | 2026-08-14 |  |
 
