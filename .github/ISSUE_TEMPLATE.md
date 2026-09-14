@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2026
+title: Latest 15 Papers - September 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,25 +45,33 @@ labels: documentation
 ## Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](https://arxiv.org/abs/2609.11923v1)** | 2026-09-10 |  |
-| **[Learning structural balance of graphs from quantum spectral features](https://arxiv.org/abs/2609.11736v1)** | 2026-09-10 | 12 pages, 6 figures |
-| **[A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph](https://arxiv.org/abs/2609.11580v1)** | 2026-09-10 |  |
-| **[Enabling Knowledge Graph Understanding at Scale with the EXplore Your Graphs ENgine (EXYGEN)](https://arxiv.org/abs/2609.11569v1)** | 2026-09-10 |  |
-| **[From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development](https://arxiv.org/abs/2609.11493v1)** | 2026-09-10 |  |
-| **[From Queries to Narratives: Cultural Heritage Data Stories for Knowledge Graph Exploration and Quality Assessment](https://arxiv.org/abs/2609.11403v1)** | 2026-09-10 |  |
-| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
-| **[The Computational Complexity of Holant Problems on 4-regular Graphs from the Stable Subgroup Sequence of $SL(2,\mathbb{C})$](https://arxiv.org/abs/2609.11175v1)** | 2026-09-10 |  |
-| **[A Four-Valued Graph Model for Conflict Resolution: Core Framework and a Machine-Checked Formalization in Lean 4](https://arxiv.org/abs/2609.11174v1)** | 2026-09-10 |  |
-| **[Breaking Predictions Is Not Enough: Specified-Foil Counterfactuals for Temporal Graphs](https://arxiv.org/abs/2609.11170v1)** | 2026-09-10 |  |
-| **[When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions](https://arxiv.org/abs/2609.11166v1)** | 2026-09-10 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 7 tables. Code and data: doi:10.5281/zenodo.22307723</p></details> |
-| **[DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat](https://arxiv.org/abs/2609.11155v1)** | 2026-09-10 |  |
-| **[HERALD: High-Fidelity Exemplar Retrieval with Adaptive Landmark Distillation for Heterophily-Aware Graph Condensation](https://arxiv.org/abs/2609.11123v1)** | 2026-09-10 |  |
-| **[A variational physics-informed graph neural network for heterogeneous solid mechanics](https://arxiv.org/abs/2609.10983v1)** | 2026-09-10 |  |
-| **[Structurally Speaking: Motif-Oriented Graph Captioning through Bidirectional Graph-Text Translation](https://arxiv.org/abs/2609.10923v1)** | 2026-09-10 |  |
+| **[SeqMoE: Toward Full-Load Performance via Predictive and Graph-Compatible MoE Offloading](https://arxiv.org/abs/2609.12978v1)** | 2026-09-11 |  |
+| **[Support-Aware Telemetry Compression for 5G Positioning via Conditional Conflict Graphs](https://arxiv.org/abs/2609.12933v1)** | 2026-09-11 |  |
+| **[A Graph-Based Approach for Mapping Kernel-Level Telemetry to MITRE ATT&CK](https://arxiv.org/abs/2609.12841v1)** | 2026-09-11 |  |
+| **[Cognition on Graph: Navigating Massive Knowledge Space via Cognitive Cycles and Bidirectional Graph-Text Synergy](https://arxiv.org/abs/2609.12791v1)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
+| **[GraphAHA: Graph-Based Adaptive Search with Heterogeneous Actions for Test-Time Code Generation](https://arxiv.org/abs/2609.12757v1)** | 2026-09-11 |  |
+| **[Local Search for Almost-Spanning Square Grids in Erdős--Rényi Random Graphs](https://arxiv.org/abs/2609.12647v1)** | 2026-09-11 | 18 pages, 1 figure |
+| **[Fault-tolerant Hamiltonian connectivity of Johnson graphs](https://arxiv.org/abs/2609.12617v1)** | 2026-09-11 |  |
+| **[$\text{GSF-}χ$: Global Stereochemical Fields for Chiral Graph Transformers](https://arxiv.org/abs/2609.12532v1)** | 2026-09-11 |  |
+| **[Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration](https://arxiv.org/abs/2609.12464v1)** | 2026-09-11 | <details><summary>11 pa...</summary><p>11 pages, 2 images, 3 tables</p></details> |
+| **[GraphProfiler: Source-Linked Sensitive Attribute Inference via Personal Knowledge Graphs](https://arxiv.org/abs/2609.12448v1)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main Conference)</p></details> |
+| **[Spatial Mixing and Deterministic Approximate Counting of Multi-spin Systems beyond Bounded Degree Graphs](https://arxiv.org/abs/2609.12352v1)** | 2026-09-11 |  |
+| **[GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs](https://arxiv.org/abs/2609.12265v1)** | 2026-09-10 | <details><summary>49 pa...</summary><p>49 pages, 11 figures, including references and appendix</p></details> |
+| **[A First-Principles Evaluation of Graph-Based Network Intrusion Detection Systems](https://arxiv.org/abs/2609.12263v1)** | 2026-09-10 | <details><summary>Full ...</summary><p>Full version of the paper accepted to the ACM Conference on Computer and Communications Security (CCS) 2026</p></details> |
+| **[Repair Before Reinforce: Context-Augmented Knowledge Graph Reasoning for Multi-Hop Question Answering](https://arxiv.org/abs/2609.12230v1)** | 2026-09-10 |  |
+| **[When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support](https://arxiv.org/abs/2609.12116v1)** | 2026-09-10 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation](https://arxiv.org/abs/2609.12874v1)** | 2026-09-11 | 9 pages, 5 figures |
+| **[IMPLY: Physically Anchored Consistency for World-Model Rollouts](https://arxiv.org/abs/2609.12441v1)** | 2026-09-11 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
+| **[Hierarchical Belief Modeling for Zero-Shot Opponent Adaptation in Partially Observable Multi-Agent Navigation](https://arxiv.org/abs/2609.12422v1)** | 2026-09-11 |  |
+| **[DWMP: Leveraging Dual World Models for Humanoid Obstacle Traversal](https://arxiv.org/abs/2609.12347v1)** | 2026-09-11 |  |
+| **[Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning](https://arxiv.org/abs/2609.12278v1)** | 2026-09-10 |  |
+| **[RodForesight: A World Model Enhanced Diffusion Policy for Slender and Material Agnostic Rod Insertion](https://arxiv.org/abs/2609.12103v1)** | 2026-09-10 |  |
+| **[Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity](https://arxiv.org/abs/2609.12090v1)** | 2026-09-10 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 15 tables</p></details> |
+| **[Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence](https://arxiv.org/abs/2609.12036v1)** | 2026-09-10 | <details><summary>Proje...</summary><p>Project page: https://zoushilong1024.github.io/Pelican-Sim1.0/</p></details> |
 | **[CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising](https://arxiv.org/abs/2609.11553v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted at the Conference on Robot Learning (CoRL), 2026</p></details> |
 | **[World in World: Explore the World with World Models](https://arxiv.org/abs/2609.11548v1)** | 2026-09-10 | <details><summary>Proje...</summary><p>Project Page: https://chenxi-song.github.io/worldinworld</p></details> |
 | **[Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs](https://arxiv.org/abs/2609.11499v1)** | 2026-09-10 | 21 pages, 11 figures |
@@ -71,19 +79,16 @@ labels: documentation
 | **[Measuring the Value of World-Model Updates: A Counterfactual Utility Protocol for Continual Adaptation](https://arxiv.org/abs/2609.10954v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, under review at the CWM workshop</p></details> |
 | **[Programmable World Model](https://arxiv.org/abs/2609.10540v1)** | 2026-09-09 | <details><summary>Homep...</summary><p>Homepage: https://alaya-lab.github.io/pwm GitHub: https://github.com/AlayaLab/pwm</p></details> |
 | **[DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation](https://arxiv.org/abs/2609.10506v1)** | 2026-09-09 | <details><summary>Prepr...</summary><p>Preprint, Project Page: https://utn-air.github.io/DUET-DINO</p></details> |
-| **[Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization](https://arxiv.org/abs/2609.10464v1)** | 2026-09-09 |  |
-| **[HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy](https://arxiv.org/abs/2609.09941v1)** | 2026-09-09 |  |
-| **[Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward](https://arxiv.org/abs/2609.09776v1)** | 2026-09-09 | 21 pages, 13 figures |
-| **[Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis](https://arxiv.org/abs/2609.09757v1)** | 2026-09-09 |  |
-| **[Seven Sources of Physical AI Capability Formation](https://arxiv.org/abs/2609.09627v1)** | 2026-09-09 |  |
-| **[Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints](https://arxiv.org/abs/2609.09597v2)** | 2026-09-10 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Code and tabulated results included as ancillary material</p></details> |
-| **[MotionBlind: Probing the Illusion of Motion Understanding in Video-LLMs](https://arxiv.org/abs/2609.09528v1)** | 2026-09-08 |  |
-| **[Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](https://arxiv.org/abs/2609.09418v1)** | 2026-09-08 |  |
 
 ## horizon
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](https://arxiv.org/abs/2609.11318v1)** | 2026-09-10 | <details><summary>Code ...</summary><p>Code and data are available at https://github.com/minghaoguo20/Mr-LHDR-eval</p></details> |
+| **[A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios](https://arxiv.org/abs/2609.13125v1)** | 2026-09-11 |  |
+| **[Tasks over Application Manuals: Revealing Gaps in Long-Horizon Procedural Reasoning for Language Models](https://arxiv.org/abs/2609.13005v1)** | 2026-09-11 |  |
+| **[Large Distant Gradients Need Not Be Reliable: reliability-weighted credit assignment for long-horizon autoregressive forecasting](https://arxiv.org/abs/2609.12890v1)** | 2026-09-11 | 35 pages, 9 figures |
+| **[Explaining Time Series Forecasting with Horizon-Resolved Attribution](https://arxiv.org/abs/2609.12639v1)** | 2026-09-11 |  |
+| **[Granularity-Adaptive Credit Assignment for Long-Horizon LLM Agent Reinforcement Learning](https://arxiv.org/abs/2609.12424v1)** | 2026-09-11 | Preprint |
+| **[Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](https://arxiv.org/abs/2609.11318v2)** | 2026-09-11 | <details><summary>Code ...</summary><p>Code and data are available at https://github.com/minghaoguo20/Mr-LHDR</p></details> |
 | **[2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation](https://arxiv.org/abs/2609.11308v1)** | 2026-09-10 |  |
 | **[T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](https://arxiv.org/abs/2609.11042v1)** | 2026-09-10 | 37 pages, 18 figures |
 | **[FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects](https://arxiv.org/abs/2609.10243v1)** | 2026-09-09 |  |
@@ -93,9 +98,4 @@ labels: documentation
 | **[OmniNav: Robust Long-Horizon Target Navigation in Dynamic Environments](https://arxiv.org/abs/2609.08159v1)** | 2026-09-08 | <details><summary>20 pa...</summary><p>20 pages, Project page: https://omni-nav.github.io/</p></details> |
 | **[Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2609.09233v1)** | 2026-09-07 |  |
 | **[SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation](https://arxiv.org/abs/2609.07933v1)** | 2026-09-07 |  |
-| **[Quantile-Led Feature Extraction for Multi-Horizon Predictive Maintenance in Industrial Manufacturing Systems](https://arxiv.org/abs/2609.07533v1)** | 2026-09-07 |  |
-| **[Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing](https://arxiv.org/abs/2609.07344v1)** | 2026-09-07 |  |
-| **[Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching](https://arxiv.org/abs/2609.07303v1)** | 2026-09-07 |  |
-| **[Elastic Horizon: Discovering the Effective Interaction Frontier in Agentic Reinforcement Learning](https://arxiv.org/abs/2609.07247v1)** | 2026-09-07 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 12 tables. Accepted to EMNLP 2026</p></details> |
-| **[Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://arxiv.org/abs/2609.06986v1)** | 2026-09-07 | <details><summary>Proje...</summary><p>Project page: https://compose-cl.github.io/</p></details> |
 
