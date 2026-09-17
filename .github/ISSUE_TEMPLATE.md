@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,44 +45,48 @@ labels: documentation
 ## Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Optimal Prefix-Free Graph Construction: NP-Hardness and Structural Insights](https://arxiv.org/abs/2609.17353v1)** | 2026-09-15 | 11 pages, 0 figures |
-| **[SEMA-GUARD: Semantic and Graph-Based Vulnerability Detection in Assembly Code](https://arxiv.org/abs/2609.17254v1)** | 2026-09-15 |  |
-| **[The forced colouring function of a graph](https://arxiv.org/abs/2609.17108v1)** | 2026-09-15 | <details><summary>29 pa...</summary><p>29 pages. Part of this work was presented at the 31st British Combinatorial Conference, Cardiff, UK, 6-10 July 2026</p></details> |
-| **[Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics](https://arxiv.org/abs/2609.17107v1)** | 2026-09-15 |  |
-| **[Repurposing Unified Topological Signatures for Graph Representation Learning](https://arxiv.org/abs/2609.17061v1)** | 2026-09-15 |  |
-| **[Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation](https://arxiv.org/abs/2609.16977v1)** | 2026-09-15 | Working Paper Draft |
-| **[Temporally Consistent Graph Extraction and Matching for Longitudinal Angiographic Images](https://arxiv.org/abs/2609.16889v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 GRAIL workshop</p></details> |
-| **[WCCS: Efficient Wedge Conductance Community Search over Large Temporal Bipartite Graphs (Full Paper)](https://arxiv.org/abs/2609.16882v1)** | 2026-09-15 |  |
-| **[Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs](https://arxiv.org/abs/2609.16861v1)** | 2026-09-15 |  |
-| **[Can We Do Interpretable NLI with Graphs Based on Atomic Propositions?](https://arxiv.org/abs/2609.16814v1)** | 2026-09-15 |  |
-| **[Unified Heterogeneous Graph Neural Network solver for Power Flow, Optimal Power Flow and State Estimation](https://arxiv.org/abs/2609.16738v1)** | 2026-09-15 |  |
-| **[Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction](https://arxiv.org/abs/2609.16686v1)** | 2026-09-15 | 8 pages |
-| **[A Multiverse of Good and Bad Controls: Candidate Causal Graphs for Interpreting Model Robustness Analysis](https://arxiv.org/abs/2609.16618v1)** | 2026-09-15 | <details><summary>72 pa...</summary><p>72 pages, 10 figures, 9 tables (supplemental tables included). R package dagmv: https://github.com/sokubo/dagmv; replication archive: https://github.com/sokubo/paper-multiverse-dag-replication</p></details> |
-| **[G3AR: Graph-Guided Neural Visual Geometry for Scalable Multi-Sequence Aerial Registration](https://arxiv.org/abs/2609.16603v1)** | 2026-09-15 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 8 tables. Accepted to SIGGRAPH Asia 2026 Technical Communications</p></details> |
-| **[PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding](https://arxiv.org/abs/2609.16557v1)** | 2026-09-15 | <details><summary>EMNLP...</summary><p>EMNLP2026 Main Conference</p></details> |
+| **[Maximum Matching Size for Bounded Arboricity Graphs in the Dynamic Graph Stream Model using $\tilde{O}(n^{2/3})$ space](https://arxiv.org/abs/2609.19136v1)** | 2026-09-16 |  |
+| **[Stable Filters for Generative Modeling of Graph Signals](https://arxiv.org/abs/2609.18759v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP'27</p></details> |
+| **[Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking](https://arxiv.org/abs/2609.18716v1)** | 2026-09-16 |  |
+| **[ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks](https://arxiv.org/abs/2609.18595v1)** | 2026-09-16 | 12 pages |
+| **[Hyperbolic Graph Representation Learning for Differential Diagnosis on Biomedical Knowledge Graphs](https://arxiv.org/abs/2609.18481v1)** | 2026-09-16 |  |
+| **[A bridge representation of Gaussian Whittle-Matérn fields on compact metric graphs](https://arxiv.org/abs/2609.18375v1)** | 2026-09-16 |  |
+| **[GraphPoint: Semantic Entity Graphs and Point Trajectories for Compositional Robot Manipulation](https://arxiv.org/abs/2609.18358v1)** | 2026-09-16 |  |
+| **[Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention](https://arxiv.org/abs/2609.18344v1)** | 2026-09-16 |  |
+| **[Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering](https://arxiv.org/abs/2609.18317v1)** | 2026-09-16 |  |
+| **[Quanta: A Self-Contained Python Library for Hybrid Retrieval over Quantised Embeddings, Lexical Indexes, and Knowledge Graphs](https://arxiv.org/abs/2609.18248v1)** | 2026-09-16 |  |
+| **[Time-Aligned Evolving Concept Graphs for Scientific Relation Forecasting](https://arxiv.org/abs/2609.18163v1)** | 2026-09-16 |  |
+| **[Hidden Circuits and Exact Counting in Ordered Graphs](https://arxiv.org/abs/2609.18132v1)** | 2026-09-16 |  |
+| **[FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection](https://arxiv.org/abs/2609.18107v1)** | 2026-09-16 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, and 5 tables</p></details> |
+| **[When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation](https://arxiv.org/abs/2609.18099v1)** | 2026-09-16 |  |
+| **[G-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2609.18009v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](https://arxiv.org/abs/2609.19142v1)** | 2026-09-16 | <details><summary>https...</summary><p>https://pointzero-wm.github.io/</p></details> |
+| **[Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving](https://arxiv.org/abs/2609.18442v1)** | 2026-09-16 | 8 pages, 2 figures |
+| **[StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions](https://arxiv.org/abs/2609.18430v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project page: https://westlakedi-awomo.github.io/StrucPhysVideo-Page/</p></details> |
+| **[Vocabulary-Guided Gait Recognition](https://arxiv.org/abs/2609.18413v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents](https://arxiv.org/abs/2609.18326v1)** | 2026-09-16 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 3 tables</p></details> |
+| **[Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://arxiv.org/abs/2609.18323v1)** | 2026-09-16 | 17 pages, 14 figures |
+| **[WAVE-Go: World-Model Navigation with Adaptive Execution for Wheel-Legged Robots](https://arxiv.org/abs/2609.18193v1)** | 2026-09-16 |  |
+| **[Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](https://arxiv.org/abs/2609.17909v1)** | 2026-09-15 | <details><summary>19 pa...</summary><p>19 pages, 8 figures. Authors listed alphabetically by surname. Project: https://zing.loopit.me/ ; Code: https://github.com/seedleap/zing-world-model ; Models: https://huggingface.co/seedleap/zing-0.5 ; Serving: https://github.com/seedleap/Zing-SGLang</p></details> |
+| **[RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.17728v1)** | 2026-09-15 |  |
 | **[XPACE: Joint World and Action Modeling from Heterogeneous Experience](https://arxiv.org/abs/2609.17372v1)** | 2026-09-15 |  |
 | **[Intrinsic Motivation in Reinforcement Learning: A Research Agenda for Adaptive Self-Organisation](https://arxiv.org/abs/2609.17325v1)** | 2026-09-15 |  |
 | **[FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence](https://arxiv.org/abs/2609.17210v1)** | 2026-09-15 |  |
-| **[Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778v1)** | 2026-09-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Code available at https://github.com/ALCOR-Lab-DIAG/MoE-JEPA</p></details> |
-| **[CorrRisk-WM: Corridor-Conditioned Risk World Modeling for Safety-Critical Trajectory Planning](https://arxiv.org/abs/2609.16724v1)** | 2026-09-15 | 9 pages, 3 figures |
+| **[Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778v2)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at the 2026 Workshop on AI for Multimedia Forensics & Disinformation Detection @ ECCV. Code available at https://github.com/ALCOR-Lab-DIAG/MoE-JEPA</p></details> |
+| **[CorrRisk-WM: Corridor-Conditioned Risk World Modeling for Safety-Critical Trajectory Planning](https://arxiv.org/abs/2609.16724v2)** | 2026-09-16 | <details><summary>9 pag...</summary><p>9 pages, 3 figures; added an AI-use disclosure, clarified the appendix description, and revised a figure; results unchanged</p></details> |
 | **[The Robot Data Factory](https://arxiv.org/abs/2609.16705v1)** | 2026-09-15 |  |
-| **[World Models for Embodied Intelligence: From Plausible to Controllable to Actionable](https://arxiv.org/abs/2609.16697v1)** | 2026-09-15 | <details><summary>Proje...</summary><p>Project Page: https://3dagentworld.github.io/EmbodiedWM/</p></details> |
-| **[AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679v1)** | 2026-09-15 | <details><summary>120 p...</summary><p>120 pages, 27 figures, 21 tables. Project page: https://eurekaleo.github.io/awesome-ai-for-games</p></details> |
-| **[The World Model Hardware Accelerator](https://arxiv.org/abs/2609.16244v1)** | 2026-09-14 |  |
-| **[When Should a World Model Move? Loss-Conditioned State Execution](https://arxiv.org/abs/2609.15801v1)** | 2026-09-14 |  |
-| **[When the World Lies: Backdoor Attacks on Latent World Models for Downstream Control](https://arxiv.org/abs/2609.15781v1)** | 2026-09-14 |  |
-| **[JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion](https://arxiv.org/abs/2609.15770v1)** | 2026-09-14 | 8 pages |
-| **[From Prediction to Decision: World-Model-Guided Action Selection for Continuous Pile Excavation](https://arxiv.org/abs/2609.15382v1)** | 2026-09-14 | 9 pages,4 figures |
-| **[Math for AI safety: an invitation for mathematicians](https://arxiv.org/abs/2609.15289v1)** | 2026-09-14 | 33 pages, 5 figures |
-| **[Legislating World-Model-Based Planning with Legal Reasoning](https://arxiv.org/abs/2609.15113v1)** | 2026-09-14 | <details><summary>Submi...</summary><p>Submitted to JURIX 2026</p></details> |
 
 ## horizon
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rollback the World, Keep the Reflection: Rollback-Induced Reflection for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.18304v1)** | 2026-09-16 |  |
+| **[Memory Has Geometry: Non-Uniform Geometric Memory for Long-Horizon Personalized AI](https://arxiv.org/abs/2609.17969v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted to the IEEE ICDM 2026 (BlueSky). 6 pages, 2 figures, and 2 tables</p></details> |
+| **[Locating Hidden Failures Makes Long-Horizon Agents More Reliable](https://arxiv.org/abs/2609.17930v1)** | 2026-09-15 |  |
+| **[Adaptive-MHE : A Sampling-Based Adaptive MPC for Legged Loco-Manipulation via Moving Horizon Estimation](https://arxiv.org/abs/2609.17832v1)** | 2026-09-15 |  |
 | **[Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems](https://arxiv.org/abs/2609.17320v1)** | 2026-09-15 |  |
 | **[QART: A Quantum-Classical Hybrid Architecture for Long-Horizon Reasoning -- Exploring a Conditional Path toward Quantum Scaling](https://arxiv.org/abs/2609.16887v1)** | 2026-09-15 | 18 pages, 3 figures |
 | **[SPEAR NeXT Causal Latent Forecasting Across Multiple Horizons for Spectral Temporal Earth Representation Learning](https://arxiv.org/abs/2609.16871v1)** | 2026-09-15 | 24 Pages |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Horizon-specific Expert Fusion for Photovoltaic Power Forecasting](https://arxiv.org/abs/2609.15035v1)** | 2026-09-14 |  |
 | **[MemRiskBench: Trace-Aware Risk-Preserving Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.14976v1)** | 2026-09-14 | 11 pages, 4 figures, |
 | **[Fault Diagnosis for Underwater Vehicles using Moving Horizon Estimation and Gaussian Processes](https://arxiv.org/abs/2609.14539v1)** | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted for publication at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
-| **[Measuring Time-Horizon Engagement Effectiveness: Persistence, Recency, and Re-Emergence](https://arxiv.org/abs/2609.14474v1)** | 2026-09-13 |  |
-| **[FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry](https://arxiv.org/abs/2609.13733v1)** | 2026-09-12 | 10 pages, 9 figures |
-| **[Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents](https://arxiv.org/abs/2609.13543v1)** | 2026-09-11 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 11 tables. EMNLP 2026 Findings</p></details> |
-| **[Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures](https://arxiv.org/abs/2609.13463v1)** | 2026-09-11 |  |
 
