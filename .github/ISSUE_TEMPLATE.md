@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Drug
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials](https://arxiv.org/abs/2610.33315v1)** | 2026-10-23 |  |
 | **[A curated multi-endpoint drug-protein bioactivity dataset with construct-aware protein targets](https://arxiv.org/abs/2610.32490v1)** | 2026-10-23 |  |
 | **[Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery](https://arxiv.org/abs/2610.31567v1)** | 2026-10-22 |  |
 | **[SweepANN: A GPU-Accelerated Large-K Approximate Vector Search for Drug Discovery](https://arxiv.org/abs/2610.27306v1)** | 2026-10-19 | <details><summary>38 pa...</summary><p>38 pages (24 pages of body and references, 14 pages of appendix), 16 figures, 48 tables. Code and data-processing scripts will be released as open source</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[PKComb-BOIN12: A Pharmacokinetically Guided Bayesian Design for Dose Optimisation in Oncology Drug-Combination Trials](https://arxiv.org/abs/2610.05477v1)** | 2026-10-04 | <details><summary>42 pa...</summary><p>42 pages, 2 Figures, 7 Tables</p></details> |
 | **[Toward a Locally Deployable Agentic Co-Scientist: Small-Model Planning for Early-Stage Drug Discovery](https://arxiv.org/abs/2610.04740v1)** | 2026-10-03 | <details><summary>22 pa...</summary><p>22 pages, 4 figures. Accepted at the AI for Drug Discovery Workshop, NeurIPS 2026</p></details> |
 | **[Beyond Random Splits: Evaluating Drug-Target Affinity Models Under Chemically and Biologically Motivated Distribution Shifts Copy](https://arxiv.org/abs/2610.03456v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2026 Workshop on AI for Drug Discovery (AI4DD)</p></details> |
-| **[HADRec: A Hierarchy-Aware Drug Recommendation Framework by Fusing Molecular Knowledge and Electronic Health Record](https://arxiv.org/abs/2610.00984v1)** | 2026-10-01 |  |
 
 ## Protein
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro](https://arxiv.org/abs/2610.33804v1)** | 2026-10-24 |  |
+| **[ProtAgent: Post-Training Compact Protein Tool Agents with Interaction-Level Credit Assignment](https://arxiv.org/abs/2610.33746v1)** | 2026-10-24 | 20 pages, 2 figures |
 | **[What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design](https://arxiv.org/abs/2610.32620v1)** | 2026-10-23 |  |
 | **[A curated multi-endpoint drug-protein bioactivity dataset with construct-aware protein targets](https://arxiv.org/abs/2610.32490v1)** | 2026-10-23 |  |
 | **[Trion-1: Unifying Language, Protein Sequence, and Structure with Diffusion Language Models](https://arxiv.org/abs/2610.31215v1)** | 2026-10-22 |  |
@@ -39,63 +41,61 @@ labels: documentation
 | **[Poisoning the corpora of protein design systems during pre-training and retrieval](https://arxiv.org/abs/2610.21200v1)** | 2026-10-15 | <details><summary>doubl...</summary><p>double page format, 6 figures</p></details> |
 | **[ProtModernBERT: Compute-Efficient Protein Language Modeling](https://arxiv.org/abs/2610.19738v1)** | 2026-10-14 | 12 pages, 5 figures |
 | **[InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design](https://arxiv.org/abs/2610.19592v1)** | 2026-10-14 | 19 pages, 6 figures |
-| **[ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization](https://arxiv.org/abs/2610.18481v1)** | 2026-10-13 | <details><summary>22 pa...</summary><p>22 pages, 2 figures, 10 tables</p></details> |
-| **[PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?](https://arxiv.org/abs/2610.17765v1)** | 2026-10-13 |  |
 
 ## Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness](https://arxiv.org/abs/2610.32954v1)** | 2026-10-23 | 21 pages, 4 figures |
-| **[Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents](https://arxiv.org/abs/2610.32781v1)** | 2026-10-23 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 9 tables. Code: https://github.com/MEDomicsLab/healthcare-agentic-kg</p></details> |
-| **[ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents](https://arxiv.org/abs/2610.32752v1)** | 2026-10-23 |  |
-| **[Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications](https://arxiv.org/abs/2610.32725v1)** | 2026-10-23 |  |
-| **[WL-SeqVAE: Sequence-Based Graph Generation Using Variational Autoencoders and Weisfeiler-Leman Colors](https://arxiv.org/abs/2610.32650v1)** | 2026-10-23 |  |
-| **[Interpreting Supervised Pairwise Graph Representations: Local Evidence, Confounding, and Provable Post-hoc Correction](https://arxiv.org/abs/2610.32611v1)** | 2026-10-23 |  |
-| **[Combinatorial Minimum Cost Flow in Almost-Linear Time on Dense Graphs](https://arxiv.org/abs/2610.32556v1)** | 2026-10-23 | 101 pages |
-| **[Quantum-Classical Link Prediction on Dark Web Hyperlink Graphs](https://arxiv.org/abs/2610.32510v1)** | 2026-10-23 |  |
-| **[DualGSL: Prior-Guided Graph Structure Learning with Node-Adaptive Prediction Fusion](https://arxiv.org/abs/2610.32462v1)** | 2026-10-23 |  |
-| **[DIGOM: Disentangled Interaction Graphs for Outcome prediction in Multimodal healthcare](https://arxiv.org/abs/2610.32451v1)** | 2026-10-23 |  |
-| **[Graphs of Trajectory Bundles for Nonlinear Motion Planning](https://arxiv.org/abs/2610.32365v1)** | 2026-10-23 | 8 pages, 4 figures |
-| **[Settling Nondeterministic Communication Complexity of Graph Connectivity](https://arxiv.org/abs/2610.32346v1)** | 2026-10-23 |  |
-| **[GeoLEON-CLIP: Graph-Anchored Multimodal Contrastive Learning for Geographic Region Representation](https://arxiv.org/abs/2610.32311v1)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at the 9th International Workshop on AI for Geographic Knowledge Discovery (GeoAI 2026), co-located with the 34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2026)</p></details> |
-| **[Detecting Insecure Compositions of Clean Agent Skills via Capability-Flow Graph Analysis](https://arxiv.org/abs/2610.32155v1)** | 2026-10-23 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
-| **[Scaling Graph Query Processing: Focused Exploration on Partitions Using Load Balancing](https://arxiv.org/abs/2610.32015v1)** | 2026-10-23 |  |
+| **[An $O(n^{0.1537})$-Coloring Algorithm for 3-Colorable Graphs](https://arxiv.org/abs/2610.35859v1)** | 2026-10-26 |  |
+| **[Computational complexity of the $H$-coloring problem in cubic graphs](https://arxiv.org/abs/2610.35794v1)** | 2026-10-26 | 13 pages, 9 figures |
+| **[Graph Neural Network for Wide-Area 6DoF Ambisonic Rendering](https://arxiv.org/abs/2610.35741v1)** | 2026-10-26 | <details><summary>5 pag...</summary><p>5 pages 2 figures, Accepted for publication in the Proceedings of the International Workshop on Acoustic Signal Enhancement (IWAENC 2026)</p></details> |
+| **[GNN-VIEW: Visual Inspection and Explanation of Graph-based Earth-System Models](https://arxiv.org/abs/2610.35693v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted to The 2nd Workshop on Advances in Representation Learning for Earth Observation at NeurIPS 2026</p></details> |
+| **[Evolve on Graph: Self-Evolving Knowledge Graph Reasoning without Question Annotations](https://arxiv.org/abs/2610.35598v1)** | 2026-10-26 |  |
+| **[Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](https://arxiv.org/abs/2610.35501v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Highlight). Project page: https://eldentse.github.io/visual_localization_pgo_public/</p></details> |
+| **[Minimality of Binary Codes From Weight Layers and Graph Cut Spaces](https://arxiv.org/abs/2610.35372v1)** | 2026-10-26 |  |
+| **[CoPE-CGL: Community-aware Prototype Extraction for Replay-Free Continual Graph Learning](https://arxiv.org/abs/2610.35313v1)** | 2026-10-26 | <details><summary>Exten...</summary><p>Extended version with appendices. 18 pages, 5 figures, 17 tables</p></details> |
+| **[LLM-Enhanced Heterogeneous Graph Learning with Business Semantics for Financial Fraud Detection](https://arxiv.org/abs/2610.35298v1)** | 2026-10-26 | 13 pages, 6 figures |
+| **[Beyond Vision-Language Models: Visual-Semantic Affect Graphs for Emotion Recognition in Artworks](https://arxiv.org/abs/2610.35244v1)** | 2026-10-26 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, IJCKG conference</p></details> |
+| **[Sharp Bounds for Graph-Codes Avoiding Complete Bipartite Differences](https://arxiv.org/abs/2610.35136v1)** | 2026-10-26 |  |
+| **[3D-Force Estimation for Dual-arm Manipulation of Deformable Linear Objects via Factor Graphs](https://arxiv.org/abs/2610.35058v1)** | 2026-10-26 |  |
+| **[Critic's Eye: Review-Grounded Graph Reasoning for Long-Form Motif Discovery](https://arxiv.org/abs/2610.35011v1)** | 2026-10-26 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 6 tables. EMNLP 2026</p></details> |
+| **[AskGLP1: A Knowledge Graph LLM Agent for Exploring GLP-1 Experience from Online Patient Narratives](https://arxiv.org/abs/2610.34987v1)** | 2026-10-26 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 11 tables</p></details> |
+| **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniAction: Unified Action Conditioning for World Models](https://arxiv.org/abs/2610.32977v1)** | 2026-10-23 | <details><summary>Proje...</summary><p>Project page: https://uniaction.github.io/</p></details> |
-| **[Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection](https://arxiv.org/abs/2610.32742v1)** | 2026-10-23 |  |
-| **[DT-JEPA: Learning to Predict Future Representations for Decision-Making](https://arxiv.org/abs/2610.32657v1)** | 2026-10-23 |  |
-| **[HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching](https://arxiv.org/abs/2610.32554v1)** | 2026-10-23 |  |
-| **[When Does Dynamics Randomization Test Context Inference?](https://arxiv.org/abs/2610.32414v1)** | 2026-10-23 |  |
-| **[UniWorld: A Unified World Model for Real-Time Visual World Simulation](https://arxiv.org/abs/2610.32381v1)** | 2026-10-23 |  |
-| **[ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences](https://arxiv.org/abs/2610.32222v1)** | 2026-10-23 |  |
-| **[$Ψ$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model](https://arxiv.org/abs/2610.32177v1)** | 2026-10-23 |  |
-| **[Interpreting Physics in Video Encoders using Multi-Object Interaction Videos](https://arxiv.org/abs/2610.31983v1)** | 2026-10-22 |  |
-| **[See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space](https://arxiv.org/abs/2610.31762v1)** | 2026-10-22 | <details><summary>28 pa...</summary><p>28 pages. Project page: https://wang-yinxi.github.io/representnav/</p></details> |
-| **[Reading, Writing, Sharing, and Interacting with the World through Video](https://arxiv.org/abs/2610.31668v1)** | 2026-10-22 | <details><summary>102 p...</summary><p>102 pages, 17 figures, 19 tables. Project page: https://vid-gen.github.io/video-world-model-survey</p></details> |
-| **[DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control](https://arxiv.org/abs/2610.31617v1)** | 2026-10-22 |  |
-| **[Skeleton-Grounded Latent Action Model for Robot World Models](https://arxiv.org/abs/2610.31474v1)** | 2026-10-22 | <details><summary>Proje...</summary><p>Project Page: https://aopolin-lv.github.io/SkeLAM/</p></details> |
-| **[Inside-JEPA: From Prediction to Relational Grounding in Latent World Models](https://arxiv.org/abs/2610.31194v1)** | 2026-10-22 |  |
-| **[Dual Exam: Controlled Evaluation of Multimodal Agents and World Models](https://arxiv.org/abs/2610.31066v1)** | 2026-10-22 |  |
+| **[World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas](https://arxiv.org/abs/2610.35813v1)** | 2026-10-26 |  |
+| **[Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation](https://arxiv.org/abs/2610.35636v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at the CoRL 2026 Workshop on Pretrain to Adapt</p></details> |
+| **[WorldPager: Zero-Stall Tiered Memory for Long-Horizon World Models on a Single Consumer GPU](https://arxiv.org/abs/2610.35529v1)** | 2026-10-26 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 9 tables</p></details> |
+| **[DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models](https://arxiv.org/abs/2610.35044v1)** | 2026-10-26 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, 8 tables, including appendices</p></details> |
+| **[TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting](https://arxiv.org/abs/2610.34797v1)** | 2026-10-26 | under review |
+| **[Video World Models Need Predictable Latents](https://arxiv.org/abs/2610.34663v1)** | 2026-10-26 | <details><summary>54 pa...</summary><p>54 pages, 25 figures, 14 tables. Code: https://github.com/mattia-scardecchia/predictable-latents</p></details> |
+| **[Dream to Assist: Intent-Conditioned World Models for Shared Vehicle Control](https://arxiv.org/abs/2610.34650v1)** | 2026-10-26 | <details><summary>32 pa...</summary><p>32 pages, 18 figures, 16 tables</p></details> |
+| **[What Does World Modeling Actually Improve in Robot Action Learning?](https://arxiv.org/abs/2610.34593v1)** | 2026-10-25 |  |
+| **[FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation](https://arxiv.org/abs/2610.34564v1)** | 2026-10-25 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026, Creative AI Track</p></details> |
+| **[How Humans Learn Unfamiliar Worlds: A Think-Aloud Dataset on ARC-AGI-3](https://arxiv.org/abs/2610.34523v1)** | 2026-10-25 | 21 pages, 14 figures |
+| **[TurboWAM: Learning What Matters for Fast World Action Models](https://arxiv.org/abs/2610.33941v1)** | 2026-10-24 | <details><summary>Techn...</summary><p>Technical report. Project page: https://turbowam.github.io/</p></details> |
+| **[WMEval: Evaluating Interactive World Models Grounded on Physical Simulations](https://arxiv.org/abs/2610.33894v1)** | 2026-10-24 |  |
+| **[RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models](https://arxiv.org/abs/2610.33807v1)** | 2026-10-24 | <details><summary>First...</summary><p>First version, 52 pages</p></details> |
+| **[Mix Forcing: Causal Pre-Training via Mixture Attention for Interactive World Models](https://arxiv.org/abs/2610.33589v1)** | 2026-10-24 |  |
+| **[Distilling Dense Trajectory Teachers For Large-Motion Video World Models](https://arxiv.org/abs/2610.33566v1)** | 2026-10-24 |  |
 
 ## horizon
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FOCUS: Active Critic Learning for Long-Horizon Language Model Agents](https://arxiv.org/abs/2610.35801v1)** | 2026-10-26 | 32 pages, 5 figures |
+| **[WorldPager: Zero-Stall Tiered Memory for Long-Horizon World Models on a Single Consumer GPU](https://arxiv.org/abs/2610.35529v1)** | 2026-10-26 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 9 tables</p></details> |
+| **[Multi-Horizon Future Discovery for Physics-Informed Exploration](https://arxiv.org/abs/2610.35468v1)** | 2026-10-26 |  |
+| **[MarkovSim: an LLM Agent Harness with Bounded Context for Long-Horizon Computational Simulation](https://arxiv.org/abs/2610.35349v1)** | 2026-10-26 | <details><summary>26 pa...</summary><p>26 pages,15 figures,not yet submitted to any journal</p></details> |
+| **[LongSearchEval: Evaluating Long-Horizon Web Search Capabilities of Large Language Models via a Trajectory-Aware Agent Framework with Failure-Node Localization](https://arxiv.org/abs/2610.35150v1)** | 2026-10-26 |  |
+| **[Multiscale Policy Optimization for Long-Horizon LLM Agents](https://arxiv.org/abs/2610.35013v1)** | 2026-10-26 |  |
+| **[Harness-Model Collaboration for Long-Horizon Continual Learning](https://arxiv.org/abs/2610.34724v1)** | 2026-10-26 |  |
+| **[Online Discrepancy of Sparse Random Vectors over Long Horizons](https://arxiv.org/abs/2610.34410v1)** | 2026-10-25 | 83 pages |
+| **[Variational Cognitive Memory Abstraction for Long-Horizon Vision-Language-Action Models](https://arxiv.org/abs/2610.34251v1)** | 2026-10-25 |  |
+| **[I Won't Know Until I Try: Interactive Information Gathering for Long-Horizon Manipulation](https://arxiv.org/abs/2610.33959v1)** | 2026-10-25 | <details><summary>8 pag...</summary><p>8 pages. Under review</p></details> |
+| **[Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents](https://arxiv.org/abs/2610.33956v1)** | 2026-10-25 | <details><summary>Proje...</summary><p>Project page: https://haoyu-zhao.github.io/CLE/index.html</p></details> |
+| **[RoboLongR: Causally Consistent Rewards Teach Robots to Progressively Master Long-Horizon Manipulation](https://arxiv.org/abs/2610.33863v1)** | 2026-10-24 | <details><summary>11 pa...</summary><p>11 pages including appendices, 8 figures, 6 tables. Project website: https://chenzixuan99.github.io/RoboLongR-public/</p></details> |
+| **[The Cost of an Unknown Horizon for the Last Iterate of Clipped SGD under Heavy-Tailed Noise](https://arxiv.org/abs/2610.33381v1)** | 2026-10-24 | <details><summary>48 pa...</summary><p>48 pages, including appendices and references. Lean 4 proofs of Theorems 5 and 11(i) and of the known-horizon bound of Theorem 1, and the script of the numerical illustration, are included as ancillary files; the Lean code is also at https://github.com/Thefootofhappiness/clipped-sgd-last-iterate-lean</p></details> |
 | **[Predictive Long-Horizon Progress Modeling with Action-Aware Quantification](https://arxiv.org/abs/2610.32776v1)** | 2026-10-23 |  |
 | **[Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](https://arxiv.org/abs/2610.32373v1)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 38 pages, 10 figures, 17 tables</p></details> |
-| **[4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents](https://arxiv.org/abs/2610.32332v1)** | 2026-10-23 | 22 pages, 5 figures |
-| **[Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis](https://arxiv.org/abs/2610.32308v1)** | 2026-10-23 | <details><summary>49 pa...</summary><p>49 pages, 18 figures. Code: https://github.com/alden199/Solvent ; Model: https://huggingface.co/Alden19910/Solvent</p></details> |
-| **[Finite-horizon maintenance under geometric-process models: Quantifying model and decision uncertainty](https://arxiv.org/abs/2610.32108v1)** | 2026-10-23 |  |
-| **[Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies](https://arxiv.org/abs/2610.32102v1)** | 2026-10-23 |  |
-| **[When LLMs Forget What They Believe: Characterizing State Integrity Collapse in Long-Horizon Dialogues](https://arxiv.org/abs/2610.31314v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference. 17 pages including appendices</p></details> |
-| **[RIPPLE: Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding](https://arxiv.org/abs/2610.31276v1)** | 2026-10-22 |  |
-| **[Reducing Multi-Horizon Photovoltaic Forecast Error through Tree-Anchored Expert Combination](https://arxiv.org/abs/2610.31248v1)** | 2026-10-22 |  |
-| **[ReflectPO: Reflection-Guided Policy Optimization for Long-Horizon LLM Agents](https://arxiv.org/abs/2610.30933v1)** | 2026-10-22 |  |
-| **[UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://arxiv.org/abs/2610.30932v1)** | 2026-10-22 |  |
-| **[Compact-Bench: Measuring What Context Compaction Costs Long-Horizon Coding Agents](https://arxiv.org/abs/2610.31710v1)** | 2026-10-22 |  |
-| **[Atlas: Making Sense of Long Horizon Agent Trajectories](https://arxiv.org/abs/2610.30548v1)** | 2026-10-22 |  |
-| **[Short-to-Long: Detached Features for Long-Horizon Value Learning](https://arxiv.org/abs/2610.30461v1)** | 2026-10-21 |  |
-| **[CTRL-FM: Inference-Time Structural Control for Flow-Based Virtual Sensing under Long-Horizon Node Outages](https://arxiv.org/abs/2610.30362v1)** | 2026-10-21 |  |
 
